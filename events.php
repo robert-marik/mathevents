@@ -1,5 +1,5 @@
 <?php
-$sdeleni_cz="Úspěšný závěr školního roku a letního semestru všem uživatelům MAWu. Pěkné prázdniny a nashle v září.";
+$sdeleni_cz="Úspěšný závěr školního roku a letního semestru všem uživatelům MAWu. Pěkné prázdniny a nashledanou v září.";
 $sdeleni_en="Nice summer 2015 to all MAW users. Have a nice holidays.";
 $sdeleni_czB="<small><a href='https://www.youtube.com/watch?v=dlkTFEz8Lz0'  class='fancybox-media'><img class='miniimg' src='days/franz_trinks.jpg'>19. června 1852 se narodil Franz Trinks, vynikající německý inženýr, konstruktér kalkulaček Brunsviga.</a> Stejný den o 229 let dříve se narodil Blaise Pascal, vználezce jednoho z prvních digitálních počítacích strojů, <a href='https://www.youtube.com/watch?v=3h71HAJWnVU' class='fancybox-media'>Pascaliny</a>.</small>";
 $sdeleni_enB="<small><a href='https://www.youtube.com/watch?v=dlkTFEz8Lz0'  class='fancybox-media'><img class='miniimg' src='days/franz_trinks.jpg'>Franz Trinks, born June 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators.</a> Blais Pascal, inventor of the computing machine <a href='https://www.youtube.com/watch?v=3h71HAJWnVU' class='fancybox-media'>Pascaline</a> was born on the same day, 229 years before Trinks.</small>";
