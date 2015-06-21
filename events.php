@@ -10,20 +10,21 @@ array_push($sdeleniCZ,"<a href='https://www.youtube.com/watch?v=dlkTFEz8Lz0' cla
 
 array_push($sdeleniCZ,"<a href='http://www.zive.cz/clanky/alan-turing-genius-ktery-matematicky-stvoril-pocitac/sc-3-a-177926/default.aspx'  class='fancybox-media'> <img class='miniimg' src='days/turing.jpg'>23. červ&shy;na 1912 se na&shy;ro&shy;di&shy;l A&shy;la&shy;n Tu&shy;rin&shy;g</a&shy;>. Ten&shy;to ma&shy;te&shy;ma&shy;ti&shy;k při&shy;spě&shy;l roz&shy;ho&shy;du&shy;jí&shy;cí mě&shy;rou k pro&shy;lo&shy;me&shy;ní ně&shy;mec&shy;kých ši&shy;fer bě&shy;hem dru&shy;hé svě&shy;to&shy;vé vál&shy;ky.");
 
-array_push($sdeleniCZ,"<a href='https://www.youtube.com/watch?v=elah3i_WiFI' class='fancybox-media'> <img class='miniimg' src='public/mathevents/hawking.jpg'>28. červ&shy;na 2009 se o&shy;de&shy;hrál Ha&shy;w&shy;kin&shy;gův ve&shy;čí&shy;rek pro ces&shy;to&shy;va&shy;te&shy;le ča&shy;sem. Po&shy;zván&shy;ky by&shy;ly zve&shy;řej&shy;ně&shy;ny a&shy;ž po u&shy;kon&shy;če&shy;ní ve&shy;čír&shy;ku&shy;. I pře&shy;s bo&shy;ha&shy;té ob&shy;čer&shy;stve&shy;ní ni&shy;kdo ne&shy;pří&shy;šel...");
+array_push($sdeleniCZ,"<a href='https://www.youtube.com/watch?v=elah3i_WiFI' class='fancybox-media'> <img class='miniimg' src='public/mathevents/hawking.jpg'>28. červ&shy;na 2009 se o&shy;de&shy;hrál Ha&shy;w&shy;kin&shy;gův ve&shy;čí&shy;rek pro ces&shy;to&shy;va&shy;te&shy;le ča&shy;sem. Po&shy;zván&shy;ky by&shy;ly zve&shy;řej&shy;ně&shy;ny a&shy;ž po u&shy;kon&shy;če&shy;ní ve&shy;čír&shy;ku&shy;. I pře&shy;s bo&shy;ha&shy;té ob&shy;čer&shy;stve&shy;ní ni&shy;kdo ne&shy;pří&shy;šel...</a>");
 
-array_push($sdeleniCZ,"<a href='https://cs.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz'> <img class='miniimg' src='public/mathevents/leibniz.jpg'>1. čer&shy;ven&shy;ce 1646 se na&shy;ro&shy;di&shy;l Gottf&shy;ried Wil&shy;helm Leib&shy;ni&shy;z, ob&shy;je&shy;vi&shy;tel a tvůr&shy;ce di&shy;fe&shy;ren&shy;ci&shy;ál&shy;ní&shy;ho a in&shy;te&shy;grál&shy;ní&shy;ho počtu (a sou&shy;čas&shy;ně s New&shy;to&shy;nem, a&shy;le kaž&shy;dý ne&shy;zá&shy;visle na dru&shy;hém).");
+array_push($sdeleniCZ,"<a href='https://cs.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz'> <img class='miniimg' src='public/mathevents/leibniz.jpg'>1. čer&shy;ven&shy;ce 1646 se na&shy;ro&shy;di&shy;l Gottf&shy;ried Wil&shy;helm Leib&shy;ni&shy;z, ob&shy;je&shy;vi&shy;tel a tvůr&shy;ce di&shy;fe&shy;ren&shy;ci&shy;ál&shy;ní&shy;ho a in&shy;te&shy;grál&shy;ní&shy;ho počtu (a sou&shy;čas&shy;ně s New&shy;to&shy;nem, a&shy;le kaž&shy;dý ne&shy;zá&shy;visle na dru&shy;hém).</a>");
 
+array_push($sdeleniCZ,"<a href='http://user.mendelu.cz/marik'> <img class='miniimg' src='public/mathevents/marik.jpg'>24. červ&shy;na 1974 se na&shy;ro&shy;di&shy;l Ro&shy;ber&shy;t Ma&shy;ří&shy;k au&shy;tor a&shy;pli&shy;ka&shy;ce Mathe&shy;ma&shy;ti&shy;ca&shy;l As&shy;sistan&shy;t on Web.</a>");
 
 array_push($sdeleniEN,"<a href='https://www.youtube.com/watch?v=dlkTFEz8Lz0'  class='fancybox-media'><img class='miniimg' src='days/franz_trinks.jpg'>Franz Trinks, born June 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators.</a> Blais Pascal, inventor of the computing machine <a href='https://www.youtube.com/watch?v=3h71HAJWnVU' class='fancybox-media'>Pascaline</a> was born on the same day, 229 years before Trinks.");
 
-array_push($sdeleniEN,"<a href='http://www.bbc.co.uk/timelines/z8bgr82'><img  class='miniimg' src='days/turing.jpg'>Alan Turing, born June 23 1912</a>, father of the modern computing science. Can a machine think?");
+array_push($sdeleniEN,"<a href='http://www.bbc.co.uk/timelines/z8bgr82'><img  class='miniimg' src='days/turing.jpg'>Alan Turing, born June 23 1912</a>, father of the modern computing science. Can a machine think?</a>");
 
-array_push($sdeleniEN,"<a href='https://www.youtube.com/watch?v=elah3i_WiFI' class='fancybox-media'> <img class='miniimg' src='public/mathevents/hawking.jpg'>On June 28, 2009, Stephen Hawking hosted a party for <b>future time travelers</b>.  He didn’t tell anyone about his plans until after it was over.");
+array_push($sdeleniEN,"<a href='https://www.youtube.com/watch?v=elah3i_WiFI' class='fancybox-media'> <img class='miniimg' src='public/mathevents/hawking.jpg'>On June 28, 2009, Stephen Hawking hosted a party for <b>future time travelers</b>.  He didn’t tell anyone about his plans until after it was over.</a>");
 
-array_push($sdeleniEN,"<a href='https://en.wikipedia.org/?title=Gottfried_Wilhelm_Leibniz'> <img class='miniimg' src='public/mathevents/leibniz.jpg'>G. W. Leibniz born on July 1, 1646 - a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.");
+array_push($sdeleniEN,"<a href='https://en.wikipedia.org/?title=Gottfried_Wilhelm_Leibniz'> <img class='miniimg' src='public/mathevents/leibniz.jpg'>G. W. Leibniz born on July 1, 1646 - a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.</a>");
 
-
+array_push($sdeleniEN,"<a href='http://user.mendelu.cz/marik'> <img class='miniimg' src='public/mathevents/marik.jpg'>The author of Mathematical Assistant on Web, Robert Mařík was born on Juny 24,1974.</a>");
 
 shuffle($sdeleniCZ);
 $sdeleni_czB="<small>".$sdeleniCZ[0]."</small>";
