@@ -18,7 +18,7 @@ array_push($sdeleniEN,"<small><a href='http://www.bbc.co.uk/timelines/z8bgr82'><
 
 array_push($sdeleniEN,"<a href='https://www.youtube.com/watch?v=elah3i_WiFI' class='fancybox-media'> <img class='miniimg' src='public/mathevents/hawking.jpg'>On June 28, 2009, Stephen Hawking hosted a party for <b>future time travelers</b>.  He didn’t tell anyone about his plans until after it was over.");
 
-array_push($sdeleniCZ,"<a href='https://en.wikipedia.org/?title=Gottfried_Wilhelm_Leibniz'> <img class='miniimg' src='public/mathevents/leibniz.jpg'>G. W. Leibniz born on July 1, 1646 - a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.");
+array_push($sdeleniEN,"<a href='https://en.wikipedia.org/?title=Gottfried_Wilhelm_Leibniz'> <img class='miniimg' src='public/mathevents/leibniz.jpg'>G. W. Leibniz born on July 1, 1646 - a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.");
 
 
 
