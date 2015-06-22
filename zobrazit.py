@@ -33,21 +33,21 @@ for doc in docs:
         optclass='sad'
     if u'sebevraždu' in doc["text"]:
         optclass='sad'
-    retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a>.</div>"%(optclass,doc["zdroj"],doc["obrazek"],rozdelena_slova)
+    retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,doc["zdroj"],doc["obrazek"],rozdelena_slova)
     retezec_en=""
     zdroj_en=doc["zdroj"]
     if 'zdroj_en' in doc:
         zdroj_en=doc["zdroj_en"]
     if 'text_en' in doc:
         rozdelena_slova_en=doc["text_en"]
-        retezec_en="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a>.</div>"%(optclass,zdroj_en,doc["obrazek"],rozdelena_slova_en)
+        retezec_en="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,zdroj_en,doc["obrazek"],rozdelena_slova_en)
     mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec,retezec_en))
 
 
 smylist=sorted(mylist, key=lambda polozka: polozka[0])
 
 f = open('events_all.php','w')
-f.write("<style>.sad{background-color:lightgray;} .nohref a {color:black;} .miniimg {margin-bottom:5px;}</style>\n<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n ")
+f.write("<style>.sad{background-color:lightgray;} .nohref a {color:black;} .miniimg {margin-bottom:5px;}</style>\n<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n")
 for i in smylist:
     mysecondlist.append((i[1], i[2], i[4]))
     f.write("array_push($sdeleniCZ,\"%s\");"%i[3].encode('utf-8'))
@@ -65,6 +65,9 @@ for i in smylist:
     if i[0]<currentday+8 and currentday-5<i[0]:
         count = count+1
         f.write("array_push($sdeleniCZ,\"%s\");"%i[3].encode('utf-8'))
+        if i[4]!="":
+            f.write("\n\n")
+            f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
         f.write("\n\n")
 f.write("?>\n\n\n")
 f.close
