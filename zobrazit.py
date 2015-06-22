@@ -33,7 +33,6 @@ for doc in docs:
         optclass='sad'
     if u'sebevraždu' in doc["text"]:
         optclass='sad'
-    print doc["jmeno"]
     if 'obrazek' in doc:
         obrazek=doc["obrazek"]
     else:
@@ -64,8 +63,10 @@ f.write("?>\n\n\n")
 f.close
 
 f = open('events_current.php','w')
+fh = open('events_current.html','w')
 count=0
 f.write("<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n ")
+fh.write("<div class='vyroci'>\n")
 for i in smylist:
     if i[0]<currentday+8 and currentday-5<i[0]:
         count = count+1
@@ -74,8 +75,12 @@ for i in smylist:
             f.write("\n\n")
             f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
         f.write("\n\n")
+    if i[0]<currentday+5 and currentday-2<i[0]:
+        fh.write("<div class=jednapolozka>%s</div>\n"%i[3].encode('utf-8').replace("public/mathevents","http://um.mendelu.cz/maw-html/public/mathevents"))
 f.write("?>\n\n\n")
+fh.write("</div>")
 f.close
+fh.close
 print count," zaznamu"
 
 #<style>.sad{background-color:lightgray;} .nohref a {color:black;} .miniimg {margin-bottom:5px;}</style>\n
@@ -94,7 +99,6 @@ if count<4:
     print count," zaznamu ve druhem pruchode"
 
 
-
 f = open('events_all.html','w')
 f.write("<pre>\n")
 for i in mysecondlist:
@@ -103,7 +107,6 @@ for i in mysecondlist:
     else:
         iseng=""
     f.write(("%s: %s%s\n\n"%(i[0], i[1], iseng)).encode('utf-8'))
-
 f.write("</pre>\n")
 
 
