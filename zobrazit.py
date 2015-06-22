@@ -33,14 +33,19 @@ for doc in docs:
         optclass='sad'
     if u'sebevraždu' in doc["text"]:
         optclass='sad'
-    retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,doc["zdroj"],doc["obrazek"],rozdelena_slova)
+    print doc["jmeno"]
+    if 'obrazek' in doc:
+        obrazek=doc["obrazek"]
+    else:
+        obrazek=doc["jmeno"].rsplit(None, 1)[-1].lower()+".jpg"
+    retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,doc["zdroj"],obrazek,rozdelena_slova)
     retezec_en=""
     zdroj_en=doc["zdroj"]
     if 'zdroj_en' in doc:
         zdroj_en=doc["zdroj_en"]
     if 'text_en' in doc:
         rozdelena_slova_en=doc["text_en"]
-        retezec_en="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,zdroj_en,doc["obrazek"],rozdelena_slova_en)
+        retezec_en="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,zdroj_en,obrazek,rozdelena_slova_en)
     mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec,retezec_en))
 
 
