@@ -26,34 +26,41 @@ for doc in docs:
     mesic=matchObj.group(2)
 #    den = regday.match(datum).group()
 #    mesic = regmonth.match(datum).group()
-    if 'lang' in doc:
-        print "Anglicky"
-    else:
-        mujtext=doc["text"].replace('---','&emdash;')
-        rozdelena_slova=dic.inserted(mujtext).replace('- ',' ').replace('-.','.').replace('(-','(').replace(' -',' ').replace('quo-t;','quot;').replace('-','&shy;').replace('&em&shy;da&shy;sh;',' &mdash; ')
-        optclass='normal'
-        if u'zemřel' in doc["text"]:
-            optclass='sad'
-        if u'sebevraždu' in doc["text"]:
-            optclass='sad'
-        retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a>.</div>"%(optclass,doc["zdroj"],doc["obrazek"],rozdelena_slova)
-        mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec))
+    mujtext=doc["text"].replace('---','&emdash;')
+    rozdelena_slova=dic.inserted(mujtext).replace('- ',' ').replace('-.','.').replace('(-','(').replace(' -',' ').replace('quo-t;','quot;').replace('-','&shy;').replace('&em&shy;da&shy;sh;',' &mdash; ')
+    optclass='normal'
+    if u'zemřel' in doc["text"]:
+        optclass='sad'
+    if u'sebevraždu' in doc["text"]:
+        optclass='sad'
+    retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a>.</div>"%(optclass,doc["zdroj"],doc["obrazek"],rozdelena_slova)
+    retezec_en=""
+    zdroj_en=doc["zdroj"]
+    if 'zdroj_en' in doc:
+        zdroj_en=doc["zdroj_en"]
+    if 'text_en' in doc:
+        rozdelena_slova_en=doc["text_en"]
+        retezec_en="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a>.</div>"%(optclass,zdroj_en,doc["obrazek"],rozdelena_slova_en)
+    mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec,retezec_en))
 
 
 smylist=sorted(mylist, key=lambda polozka: polozka[0])
 
 f = open('events_all.php','w')
-f.write("<style>.sad{background-color:lightgray;} .nohref a {color:black;} .miniimg {margin-bottom:5px;}</style>\n<?php\n\n$sdeleniCZ=array();\n\n ")
+f.write("<style>.sad{background-color:lightgray;} .nohref a {color:black;} .miniimg {margin-bottom:5px;}</style>\n<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n ")
 for i in smylist:
-    mysecondlist.append((i[1], i[2]))
+    mysecondlist.append((i[1], i[2], i[4]))
     f.write("array_push($sdeleniCZ,\"%s\");"%i[3].encode('utf-8'))
+    f.write("\n")
+    if i[4]!="":
+        f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
     f.write("\n\n")
 f.write("?>\n\n\n")
 f.close
 
 f = open('events_current.php','w')
 count=0
-f.write("<?php\n\n$sdeleniCZ=array();\n\n ")
+f.write("<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n ")
 for i in smylist:
     if i[0]<currentday+8 and currentday-5<i[0]:
         count = count+1
@@ -68,7 +75,7 @@ print count," zaznamu"
 if count<4:
     f = open('events_current.php','w')
     count=0
-    f.write("<?php\n\n$sdeleniCZ=array();\n\n ")
+    f.write("<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n ")
     for i in smylist:
         if i[0]<currentday+14 and currentday-10<i[0]:
             count = count+1
@@ -83,7 +90,11 @@ if count<4:
 f = open('events_all.html','w')
 f.write("<pre>\n")
 for i in mysecondlist:
-    f.write(("%s: %s\n\n"%(i[0], i[1])).encode('utf-8'))
+    if i[2]!="":
+        iseng=", (ENG)"
+    else:
+        iseng=""
+    f.write(("%s: %s%s\n\n"%(i[0], i[1], iseng)).encode('utf-8'))
 
 f.write("</pre>\n")
 

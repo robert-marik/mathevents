@@ -4,7 +4,7 @@ jmeno: Franz Trinks
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
 obrazek: trinks.jpg
 text: 19. června 1852 se narodil Franz Trinks, vynikající německý inženýr, konstruktér kalkulaček Brunsviga. Stejný den o 229 let dříve se narodil Blaise Pascal, vynálezce jednoho z prvních digitálních počítacích strojů, Pascaliny.
-text_en: Franz Trinks, born June 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators. Blais Pascal, inventor of the computing machine Pascaline was born on the same day, 229 years before Trinks.
+text_en: Franz Trinks, born on June 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators. Blais Pascal, inventor of the computing machine Pascaline was born on the same day, 229 years before Trinks.
 ---
 datum: 2.10.1931
 jmeno: Franz Trinks
@@ -18,7 +18,7 @@ jmeno: Alan Turing
 zdroj: http://www.zive.cz/clanky/alan-turing-genius-ktery-matematicky-stvoril-pocitac/sc-3-a-177926/default.aspx
 obrazek: turing.jpg
 text: 23. června 1912 se narodil Alan Turing. Tento matematik přispěl rozhodující měrou k prolomení německých šifer během druhé světové války.
-text_en: Alan Turing, born June 23 1912, father of the modern computing science. Can a machine think?
+text_en: Alan Turing, born on June 23 1912, father of the modern computing science. Can a machine think?
 zdroj_en: http://www.bbc.co.uk/timelines/z8bgr82
 ---
 datum: 7.6.1954
@@ -26,12 +26,15 @@ jmeno: Alan Turing
 zdroj: http://www.zive.cz/clanky/alan-turing-genius-ktery-matematicky-stvoril-pocitac/sc-3-a-177926/default.aspx
 obrazek: turing.jpg
 text: 7. června 1954 spáchal sebevraždu Alan Turing. Tento matematik přispěl rozhodující měrou k prolomení německých šifer během druhé světové války a přispěl k formulaci problému, zda počítače umí myslet.
+text_en: Alan Turing, died on June 7 1954, father of the modern computing science. Can a machine think?
+zdroj_en: http://www.bbc.co.uk/timelines/z8bgr82
 ---
 datum: 28.6.2009
 jmeno: Stephen Hawking
 zdroj: https://www.youtube.com/watch?v=elah3i_WiFI
 obrazek: hawking.jpg
 text: 28. června 2009 se odehrál Hawkingův večírek pro cestovatele časem. Pozvánky byly zveřejněny až po ukončení večírku. I přes bohaté občerstvení nikdo nepříšel...
+text_en: On June 28, 2009, Stephen Hawking hosted a party for <b>future time travelers</b>.  He didn’t tell anyone about his plans until after it was over.
 ---
 datum: 8.2.1942
 jmeno: Stephen Hawking
@@ -39,31 +42,19 @@ zdroj: https://www.youtube.com/watch?v=elah3i_WiFI
 obrazek: hawking.jpg
 text: 8.2. 1942 se narodil Stephen Hawking, bristký teoretický fyzik a jeden z nejznámějších vědců současnosti. V odkazu se můžete podívat na to, jak zorganizoval večírek pro cestovatele časem. Pozvánky byly zveřejněny až po ukončení večírku.
 ---
-datum: 28.6.2009
-jmeno: Stephen Hawking
-zdroj: https://www.youtube.com/watch?v=elah3i_WiFI
-obrazek: hawking.jpg
-text: On June 28, 2009, Stephen Hawking hosted a party for <b>future time travelers</b>.  He didn’t tell anyone about his plans until after it was over.
-lang: en
----
 datum: 1.7.1646
 jmeno: Gottfried Wilhelm Leibniz
 zdroj: https://cs.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
 obrazek: leibniz.jpg
 text: 1. července 1646 se narodil Gottfried Wilhelm Leibniz, objevitel a tvůrce diferenciálního a integrálního počtu (současně s Newtonem, ale každý nezávisle na druhém).
+zdroj_en: https://en.wikipedia.org/?title=Gottfried_Wilhelm_Leibniz
+text_en: G. W. Leibniz born on July 1, 1646 ---- a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.
 ---
 datum: 14.11.1716
 jmeno: Gottfried Wilhelm Leibniz
 zdroj: https://cs.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
 obrazek: leibniz.jpg
 text: 14. listopadu 1716 zemřel Gottfried Wilhelm Leibniz, objevitel a tvůrce diferenciálního a integrálního počtu (současně s Newtonem, ale každý nezávisle na druhém).
----
-datum: 1.7.1646
-jmeno: Gottfried Wilhelm Leibniz
-zdroj: https://en.wikipedia.org/?title=Gottfried_Wilhelm_Leibniz
-obrazek: leibniz.jpg
-text: G. W. Leibniz born on July 1, 1646 ---- a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.
-lang: en
 ---
 datum: 4.1.1643
 jmeno: Isaac Newton
@@ -105,7 +96,8 @@ datum: 24.6.1974
 jmeno: Robert Mařík
 zdroj: http://user.mendelu.cz/marik
 obrazek: marik.jpg
-text: 24. června 1974 se narodil Robert Mařík autor aplikace Mathematical Assistant on Web.
+text: 24. června 1974 se narodil autor aplikace Mathematical Assistant on Web.
+text_en: The author of the application Mathematical Assistant on Web was born on June 24, 1974.
 ---
 datum: 23.3.1749
 jmeno: Pierre Simon de Laplace
