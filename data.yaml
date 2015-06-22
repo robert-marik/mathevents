@@ -427,7 +427,7 @@ text: Dne 18. května 2009 byl spuštěn webový portál WolframAlpha, který um
 datum: 4.11.1946
 jmeno: Richard Fateman
 zdroj: http://maxima.sourceforge.net/
-text: 4. ledna 1946 se narodil Richard Fateman, emeritní profesor University of California, Berkeley. Tento vědec stál u samých počátků použití pořítačů k symbolickým výpočtům. Hrál velkou roli ve vývoji programu Maxima, který obstarává výpočty i pro MAW.
+text: 4. listopadu 1946 se narodil Richard Fateman, emeritní profesor University of California, Berkeley. Tento vědec stál u samých počátků použití pořítačů k symbolickým výpočtům. Hrál velkou roli ve vývoji programu Maxima, který obstarává výpočty i pro MAW.
 ---
 datum: 28.12.1969
 jmeno: Linus Torvalds
@@ -438,3 +438,13 @@ datum: 24.3.1956
 jmeno: Steve Balmer
 zdroj: http://www.youtube.com/watch?v=wvsboPUjrGc
 text: Dne 24. března se narodil Steve Balmer, muž podílející se na úspěchu firmy Microsoft, po mnoho let byl jejím výkonným ředitelem. Byl znám svým plánovaně přehnaným vystupováním --- viz video pod odkazem.
+---
+datum: 7.2.1941
+jmeno: Leslie Lamport
+zdroj: https://cs.wikipedia.org/wiki/LaTeX
+text: 7. února 1941 se narodil Leslie Lamport, autor typografického systému LaTeX. Tento systém používají v podstatě všechny matematické časopisy a nakladatelství.
+---
+datum: 10.1.1938
+zdroj: https://www.youtube.com/watch?v=YMhcc9VQ6Uk
+jmeno: Donald Knuth
+text: 10. ledna 1938 se narodil Donald Ervin Knuth, přední informatik, autor sázecího systému TeX. Tento systém je od svého vzniku v roce 1978 až do dnešních dnů prakticky jedinou možností jak efektivně a dostatečně kvalitně pořizovat matematikcé texty na počítači.
