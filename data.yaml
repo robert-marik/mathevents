@@ -2,19 +2,19 @@
 datum: 19.6.1852
 jmeno: Franz Trinks
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
-obrazek: franz_trinks.jpg
+obrazek: trinks.jpg
 text: 19. června 1852 se narodil Franz Trinks, vynikající německý inženýr, konstruktér kalkulaček Brunsviga. Stejný den o 229 let dříve se narodil Blaise Pascal, vynálezce jednoho z prvních digitálních počítacích strojů, Pascaliny.
 ---
 datum: 2.10.1931
 jmeno: Franz Trinks
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
-obrazek: franz_trinks.jpg
+obrazek: trinks.jpg
 text: 2. října 1931 zemřel Franz Trinks, vynikající německý inženýr, konstruktér mechanických kalkulaček Brunsviga. Pracoval v Branschweigu, rodném městě Karla Gausse.
 ---
 datum: 19.6.1852
 jmeno: Franz Trinks
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
-obrazek: franz_trinks.jpg
+obrazek: trinks.jpg
 text: Franz Trinks, born June 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators.</a> Blais Pascal, inventor of the computing machine <a href='https://www.youtube.com/watch?v=3h71HAJWnVU' class='fancybox-media'>Pascaline</a> was born on the same day, 229 years before Trinks.
 lang: en
 ---
@@ -60,13 +60,13 @@ datum: 1.7.1646
 jmeno: Gottfried Wilhelm Leibniz
 zdroj: https://cs.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
 obrazek: leibniz.jpg
-text: 1. července 1646 se narodil Gottfried Wilhelm Leibniz, objevitel a tvůrce diferenciálního a integrálního počtu (a současně s Newtonem, ale každý nezávisle na druhém).
+text: 1. července 1646 se narodil Gottfried Wilhelm Leibniz, objevitel a tvůrce diferenciálního a integrálního počtu (současně s Newtonem, ale každý nezávisle na druhém).
 ---
 datum: 14.11.1716
 jmeno: Gottfried Wilhelm Leibniz
 zdroj: https://cs.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
 obrazek: leibniz.jpg
-text: 14. listopadu 1716 zemřel Gottfried Wilhelm Leibniz, objevitel a tvůrce diferenciálního a integrálního počtu (a současně s Newtonem, ale každý nezávisle na druhém).
+text: 14. listopadu 1716 zemřel Gottfried Wilhelm Leibniz, objevitel a tvůrce diferenciálního a integrálního počtu (současně s Newtonem, ale každý nezávisle na druhém).
 ---
 datum: 1.7.1646
 jmeno: Gottfried Wilhelm Leibniz
@@ -213,11 +213,11 @@ zdroj: https://cs.wikipedia.org/wiki/Maria_Curie-Sk%C5%82odowska
 text: 4. července 1934 zemřela polská vědkyně Maria Curie-Skłodowska. Získala dvě Nobelovy ceny ve dvou různých oborech (chemie a fzyika).
 obrazek: sklodowska.jpg
 ---
-zdroj: http://www.dayintechhistory.com/dith/january-4-1972-hp-35-scientific-calculator/
+zdroj: https://cs.wikipedia.org/wiki/HP-35
 datum: 4.1.1972
 jmeno: HP 35
 obrazek: hp.jpg
-text: Firma Hewlett-Packard představila první kapesní vědecký kalkulátor, HP 35, přezdívaný též &quot;slide rule killer&quot;, tj. zabiják logaritmického pravítka.
+text: Firma Hewlett-Packard představila 4. ledna 1972 první kapesní vědecký kalkulátor HP 35, přezdívaný též &quot;slide rule killer&quot;, tj. zabiják logaritmického pravítka.
 ---
 zdroj: https://www.youtube.com/watch?v=8lXxJ5eIvII
 datum: 13.7.2018
@@ -225,11 +225,11 @@ jmeno: zatmeni Slunce
 obrazek: zatmeni.jpg
 text: Nejbližší zatmění Slunce, které nastane v pátek třináctého, bude v pátek 13.7.2018. Poslední zatmění Slunce v pátek třináctého bylo v roce 1974 a v obou případech jde o zatmění částečné.
 ---
-zdroj: http://pballew.blogspot.cz/2014/07/on-this-day-in-math-july-13.html
+zdroj: https://www.youtube.com/watch?v=wW-rd9ZR-TA
 datum: 13.7.1944
 jmeno: Erno Rubik
 obrazek: rubik.jpg
-text: 13. července 1944 se narodil ma%darský matematik Erno Rubik, vynálezce populární Rubikovy kostky.
+text: 13. července 1944 se narodil maďarský matematik Erno Rubik, vynálezce populární Rubikovy kostky.
 ---
 datum: 8.7.1894
 jmeno: Pjotr Leonidovič Kapica
@@ -326,3 +326,27 @@ datum: 3.1.1823
 zdroj: https://www.youtube.com/watch?v=UjaPmowIUIA
 obrazek: amsler.jpg
 text: 3. ledna zemřel Jacob Amsler. Zkonstruoval planimetr - přístroj umožňující plně mechanickou cestou měřit obsahy obrazců libovolného tvaru.
+---
+jmeno: Friden Sqrt
+datum: 1.4.1952
+zdroj: https://www.youtube.com/watch?v=fnmj9EzKgtg
+obrazek: friden.jpg
+text: 1. dubna 1952 byl podán patent US2736494 A na kalkulátor, který uměl plně automaticky počítat druhou odmocninu. Naprosto udivil svět, do té doby se odmocnina počítala tak, jak je předvedeno na videu z odkazu.
+---
+jmeno: Planimetr z kruzitka
+datum: 13.8.1959
+zdroj: https://www.youtube.com/watch?v=u8gTQoSCuRo
+obrazek: kruzitko.jpg
+text: 13. srpna 1959 byl podán český patent CS 102246 na planimetr z běžného kružitka. Přiložené video ukazuje planimetr z kávové lžičky.
+---
+jmeno: MAW
+datum: 11.3.2008
+zdroj: https://sourceforge.net/projects/mathassistant/
+obrazek: maw.jpg
+text: 11. března roku 2008 byly na sourceforge.net nahrány zdrojové kódy aplikace Mathematical Assistant on Web. V té době projekt již minimálně půl roku běžel a cílem bylo zúpřehlednit další vývoj a získat případné spolupracovníky.
+---
+jmeno: MAW
+datum: 25.4.2013
+zdroj: http://um.mendelu.cz
+obrazek: maw.jpg
+text: 25. dubna 2013 byl spuštěn nový virtuální obsluhující aplikaci Mathematical Assistant on Web. Uživatelé pocítili znatelný nárustu výkonu.
