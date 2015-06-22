@@ -386,12 +386,12 @@ text: 12. srpna 1981 byl představen první počítač IBM PC.
 jmeno: Leslie Comrie
 datum: 15.8.1893
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
-text: 15. srpna 1893 se narodil Leslie Comrie, průkopník použití mechanických a děrnoštítkových kalkulátorů, určených původně pro obchodníky, pro matematické výpočty.
+text: 15. srpna 1893 se narodil Leslie Comrie, průkopník použití mechanických kalkulátorů (Brunsviga) a děrnoštítkových kalkulátorů, určených původně pro obchodníky, pro matematické výpočty.
 ---
 jmeno: Leslie Comrie
 datum: 11.12.1950
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
-text: 11. prosince 1950 zemřel Leslie Comrie, průkopník použití mechanických a děrnoštítkových kalkulátorů, určených původně pro obchodníky, pro matematické výpočty.
+text: 11. prosince 1950 zemřel Leslie Comrie, průkopník použití mechanických kalkulátorů (Brunsviga) a děrnoštítkových kalkulátorů, určených původně pro obchodníky, pro matematické výpočty.
 ---
 jmeno: iphone
 datum: 29.6.2007
@@ -408,3 +408,33 @@ zdroj: http://www.youtube.com/watch?v=KDp1tiUsZw8
 datum: 30.7.1971 
 obrazek: apollo.jpg
 text: 30. července 1971 přistála na Měsíci expedice Apollo 15. Mimo jiné provedli školní experiment --- současný pád kladiva a peříčka bez odporu vzduchu.
+---
+jmeno: propiska
+zdroj: https://cs.wikipedia.org/wiki/Propiska
+datum: 15.6.1938
+text: 15. června 1938 byla patentována propiska --- pro matematiky jeden z nejpoužívanějších nástrojů.
+---
+jmeno: Stephen Wolfram
+datum: 29.8.1959
+zdroj: http://www.wolframalpha.com/
+text: Dne 29. srpna 1959 se narodil vynikající britský vědec, programátor a obchodník Stephen Wolfram. Z jeho dílny vyšly program Mathematica a služba WolframAlpha.
+---
+datum: 18.5.2009
+jmeno: wolframalpha
+zdroj: http://www.wolframalpha.com/
+text: Dne 18. května 2009 byl spuštěn webový portál WolframAlpha, který umožňuje přístup k symbolickým výpočtům zdarma a prostřednictvím webového prohlížeče.
+---
+datum: 4.11.1946
+jmeno: Richard Fateman
+zdroj: http://maxima.sourceforge.net/
+text: 4. ledna 1946 se narodil Richard Fateman, emeritní profesor University of California, Berkeley. Tento vědec stál u samých počátků použití pořítačů k symbolickým výpočtům. Hrál velkou roli ve vývoji programu Maxima, který obstarává výpočty i pro MAW.
+---
+datum: 28.12.1969
+jmeno: Linus Torvalds
+zdroj: http://proc.linux.cz/
+text: 28. prosince 1969 se narodil finský programátor Linus Torvalds. Vytvořil a nadále se podílí na vývoji operačního systému Linux, na kterém běží prakticky všechny superpočítače na světě, většina světových webových serverů a také všechny osobní počítače autora MAWu.
+---
+datum: 24.3.1956
+jmeno: Steve Balmer
+zdroj: http://www.youtube.com/watch?v=wvsboPUjrGc
+text: Dne 24. března se narodil Steve Balmer, muž podílející se na úspěchu firmy Microsoft, po mnoho let byl jejím výkonným ředitelem. Byl znám svým plánovaně přehnaným vystupováním --- viz video pod odkazem.
