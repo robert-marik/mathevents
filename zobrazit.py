@@ -52,6 +52,8 @@ smylist=sorted(mylist, key=lambda polozka: polozka[0])
 
 f = open('events_all.php','w')
 f.write("<style>.sad{background-color:lightgray;} .nohref a {color:black;} .miniimg {margin-bottom:5px;}</style>\n<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n")
+fh = open('events_full_all.html','w')
+fh.write("<div class='vyroci'>\n")
 for i in smylist:
     mysecondlist.append((i[1], i[2], i[4]))
     f.write("array_push($sdeleniCZ,\"%s\");"%i[3].encode('utf-8'))
@@ -59,8 +61,11 @@ for i in smylist:
     if i[4]!="":
         f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
     f.write("\n\n")
+    fh.write("<div class=jednapolozka>%s</div>\n"%i[3].encode('utf-8').replace("public/mathevents","http://um.mendelu.cz/maw-html/public/mathevents"))
 f.write("?>\n\n\n")
 f.close
+fh.write("</div>")
+fh.write("?>\n\n\n")
 
 f = open('events_current.php','w')
 fh = open('events_current.html','w')
