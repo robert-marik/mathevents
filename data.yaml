@@ -4,38 +4,28 @@ jmeno: Franz Trinks
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
 obrazek: trinks.jpg
 text: 19. června 1852 se narodil Franz Trinks, vynikající německý inženýr, konstruktér kalkulaček Brunsviga. Stejný den o 229 let dříve se narodil Blaise Pascal, vynálezce jednoho z prvních digitálních počítacích strojů, Pascaliny.
+text_en: Franz Trinks, born June 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators. Blais Pascal, inventor of the computing machine Pascaline was born on the same day, 229 years before Trinks.
 ---
 datum: 2.10.1931
 jmeno: Franz Trinks
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
 obrazek: trinks.jpg
 text: 2. října 1931 zemřel Franz Trinks, vynikající německý inženýr, konstruktér mechanických kalkulaček Brunsviga. Pracoval v Branschweigu, rodném městě Karla Gausse.
----
-datum: 19.6.1852
-jmeno: Franz Trinks
-zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
-obrazek: trinks.jpg
-text: Franz Trinks, born June 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators.</a> Blais Pascal, inventor of the computing machine <a href='https://www.youtube.com/watch?v=3h71HAJWnVU' class='fancybox-media'>Pascaline</a> was born on the same day, 229 years before Trinks.
-lang: en
+text_en: Franz Trinks, died on September 19, 1852. He was an outstanding German engineer, leader of the developement of Brunsviga calculators. Worked in Branschweig, the place of birth of Carl Gauss.
 ---
 datum: 23.6.1912
 jmeno: Alan Turing
 zdroj: http://www.zive.cz/clanky/alan-turing-genius-ktery-matematicky-stvoril-pocitac/sc-3-a-177926/default.aspx
 obrazek: turing.jpg
 text: 23. června 1912 se narodil Alan Turing. Tento matematik přispěl rozhodující měrou k prolomení německých šifer během druhé světové války.
+text_en: Alan Turing, born June 23 1912, father of the modern computing science. Can a machine think?
+zdroj_en: http://www.bbc.co.uk/timelines/z8bgr82
 ---
 datum: 7.6.1954
 jmeno: Alan Turing
 zdroj: http://www.zive.cz/clanky/alan-turing-genius-ktery-matematicky-stvoril-pocitac/sc-3-a-177926/default.aspx
 obrazek: turing.jpg
 text: 7. června 1954 spáchal sebevraždu Alan Turing. Tento matematik přispěl rozhodující měrou k prolomení německých šifer během druhé světové války a přispěl k formulaci problému, zda počítače umí myslet.
----
-datum: 23.6.1912
-jmeno: Alan Turing
-zdroj: http://www.bbc.co.uk/timelines/z8bgr82
-obrazek: turing.jpg
-text: Alan Turing, born June 23 1912</a>, father of the modern computing science. Can a machine think?
-lang: en
 ---
 datum: 28.6.2009
 jmeno: Stephen Hawking
@@ -72,7 +62,7 @@ datum: 1.7.1646
 jmeno: Gottfried Wilhelm Leibniz
 zdroj: https://en.wikipedia.org/?title=Gottfried_Wilhelm_Leibniz
 obrazek: leibniz.jpg
-text: G. W. Leibniz born on July 1, 1646 - a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.
+text: G. W. Leibniz born on July 1, 1646 ---- a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.
 lang: en
 ---
 datum: 4.1.1643
@@ -307,7 +297,7 @@ jmeno: Willgodt Theophil Odhner
 datum: 13.7.1878
 zdroj: https://www.youtube.com/watch?v=czIQDrOO4zg
 obrazek: odhner.jpg
-text: 13. července 1878 podal W. Odhner patentovou žádost číslo US209416 A - první kalkulačka vhodná pro masovou výrobu. Obešla se dokonce bez elektřiny.
+text: 13. července 1878 podal W. Odhner patentovou žádost číslo US209416 A --- první kalkulačka vhodná pro masovou výrobu. Obešla se dokonce bez elektřiny.
 ---
 jmeno: Jon Peddie
 datum: 9.10.1967
@@ -319,13 +309,13 @@ jmeno: Jacob Amsler
 datum: 16.11.1823
 zdroj: https://www.youtube.com/watch?v=UjaPmowIUIA
 obrazek: amsler.jpg
-text: 16. listopadu se narodil Jacob Amsler. Zkonstruoval planimetr - přístroj umožňující plně mechanickou cestou měřit obsahy obrazců libovolného tvaru.
+text: 16. listopadu se narodil Jacob Amsler. Zkonstruoval planimetr --- přístroj umožňující plně mechanickou cestou měřit obsahy obrazců libovolného tvaru.
 ---
 jmeno: Jacob Amsler
 datum: 3.1.1823
 zdroj: https://www.youtube.com/watch?v=UjaPmowIUIA
 obrazek: amsler.jpg
-text: 3. ledna zemřel Jacob Amsler. Zkonstruoval planimetr - přístroj umožňující plně mechanickou cestou měřit obsahy obrazců libovolného tvaru.
+text: 3. ledna zemřel Jacob Amsler. Zkonstruoval planimetr --- přístroj umožňující plně mechanickou cestou měřit obsahy obrazců libovolného tvaru.
 ---
 jmeno: Friden Sqrt
 datum: 1.4.1952
@@ -343,7 +333,7 @@ jmeno: MAW
 datum: 11.3.2008
 zdroj: https://sourceforge.net/projects/mathassistant/
 obrazek: maw.jpg
-text: 11. března roku 2008 byly na sourceforge.net nahrány zdrojové kódy aplikace Mathematical Assistant on Web. V té době projekt již minimálně půl roku běžel a cílem bylo zúpřehlednit další vývoj a získat případné spolupracovníky.
+text: 11. března roku 2008 byly na Sourceforge nahrány zdrojové kódy aplikace Mathematical Assistant on Web. V té době projekt již minimálně půl roku běžel a cílem bylo z přehlednit další vývoj a získat případné spolupracovníky.
 ---
 jmeno: MAW
 datum: 25.4.2013
