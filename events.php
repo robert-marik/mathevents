@@ -6,11 +6,11 @@ $sdeleni_en="Nice summer 2015 to all MAW users. Have a nice holidays.";
 require_once("events_current.php");
 
 shuffle($sdeleniCZ);
-$sdeleni_czB="<small>".$sdeleniCZ[0]."</small>";
-$sdeleni_czC="<small>".$sdeleniCZ[1]."</small>";
+$sdeleni_czB=$sdeleniCZ[0];
+$sdeleni_czC=$sdeleniCZ[1];
 
 shuffle($sdeleniEN);
-$sdeleni_enB="<small>".$sdeleniEN[0]."</small>";
-$sdeleni_enC="<small>".$sdeleniEN[1]."</small>";
+$sdeleni_enB=$sdeleniEN[0];
+$sdeleni_enC=$sdeleniEN[1];
 
 ?>
