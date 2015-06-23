@@ -33,7 +33,7 @@ datum: 28.6.2009
 jmeno: Stephen Hawking
 zdroj: https://www.youtube.com/watch?v=elah3i_WiFI
 obrazek: hawking.jpg
-text: 28. června 2009 se odehrál Hawkingův večírek pro cestovatele časem. Pozvánky byly zveřejněny až po ukončení večírku. I přes bohaté občerstvení nikdo nepříšel...
+text: 28. června 2009 se odehrál Hawkingův večírek pro cestovatele časem. Pozvánky byly zveřejněny až po ukončení večírku. I přes bohaté občerstvení nikdo nepřišel...
 text_en: On June 28, 2009, Stephen Hawking hosted a party for <b>future time travelers</b>.  He didn’t tell anyone about his plans until after it was over.
 ---
 datum: 8.2.1942
@@ -72,13 +72,13 @@ datum: 30.4.1777
 jmeno: Carl Gauss
 zdroj: https://cs.wikipedia.org/wiki/Carl_Friedrich_Gauss
 obrazek: gauss.jpg
-text: 30. dubna 1977 se v Německu narodil Carl Friedrich Gauss. Vynikající matematik, fyzik a astronomon, kterému se přezdívalo kníže matematiků.
+text: 30. dubna 1977 se v Německu narodil Carl Friedrich Gauss. Vynikající matematik, fyzik a astronom, kterému se přezdívalo kníže matematiků.
 ---
 datum: 23.2.1855
 jmeno: Carl Gauss
 zdroj: https://cs.wikipedia.org/wiki/Carl_Friedrich_Gauss
 obrazek: gauss.jpg
-text: 23. února 1855 v Göttingenu zemřel Carl Friedrich Gauss. Vynikající matematik, fyzik a astronomon, kterému se přezdívalo kníže matematiků.
+text: 23. února 1855 v Göttingenu zemřel Carl Friedrich Gauss. Vynikající matematik, fyzik a astronom, kterému se přezdívalo kníže matematiků.
 ---
 datum: 15.4.1707
 jmeno: Leonhard Euler
@@ -169,7 +169,7 @@ datum: 18.4.1955
 jmeno: Albert Einstein
 zdroj: https://cs.wikipedia.org/wiki/Albert_Einstein
 obrazek: einstein.jpg
-text: 18. dubna 1955 se narodil Albert Einstein, geniální fyzik a výborný matematik. Navzdory legendám, nikdy z matematiky nepropadal, ale měl z ní nejlepší známky. To byly tenkrát šestky.
+text: 18. dubna 1955 zemřel Albert Einstein, geniální fyzik a výborný matematik. Navzdory legendám, nikdy z matematiky nepropadal, ale měl z ní nejlepší známky. To byly tenkrát šestky.
 ---
 datum: 28.4.1906
 jmeno: Kurt Gödel
@@ -229,7 +229,7 @@ datum: 16.7.1746
 jmeno: Giuseppe Piazzi
 zdroj: https://cs.wikipedia.org/wiki/Giuseppe_Piazzi
 obrazek: piazzi.jpg
-text: 16. července 1746 se narodil italský astronomo Giuseppe Piazzi. V roce 1801 na základě jeho poyorování vypočítal (!) Carl Gauss polohu planetky Ceres, což se ukázalo jak senzační úspěch matematiky i Gausse.
+text: 16. července 1746 se narodil italský astronom Giuseppe Piazzi. V roce 1801 na základě jeho pozorování vypočítal (!) Carl Gauss polohu planetky Ceres, což se ukázalo jak senzační úspěch matematiky i Gausse.
 ---
 jmeno: Jules Henri Poincaré
 datum: 29.4.1854
@@ -261,6 +261,12 @@ obrazek: mendel.jpg
 zdroj: https://cs.wikipedia.org/wiki/Gregor_Mendel
 text: 20. července 1822 se narodil Johann Gregor Mendel, objevitel dědičnosti, jeden z mála českých vědců, jehož jméno zná celý svět.
 ---
+jmeno: Johann Gregor Mendel
+datum: 6.1.1884
+obrazek: mendel.jpg
+zdroj: https://cs.wikipedia.org/wiki/Gregor_Mendel
+text: 6. ledna 1884 zemřel Johann Gregor Mendel, objevitel dědičnosti, jeden z mála českých vědců, jehož jméno zná celý svět.
+---
 jmeno: Otakar Borůvka
 datum: 10.5.1899
 zdroj: https://cs.wikipedia.org/wiki/Otakar_Bor%C5%AFvka
@@ -271,7 +277,7 @@ jmeno: Otakar Borůvka
 datum: 22.7.1995
 zdroj: https://cs.wikipedia.org/wiki/Otakar_Bor%C5%AFvka
 obrazek: boruvka.jpg
-text: 22. července 1995 zemřel Otakar Borůvka, významný český matematik, proslavil se pracemi v algebře a teorii diferenciálích rovnic.
+text: 22. července 1995 zemřel Otakar Borůvka, významný český matematik, proslavil se pracemi v algebře a teorii diferenciálních rovnic.
 ---
 jmeno: Willgodt Theophil Odhner
 datum: 10.8.1845
@@ -295,7 +301,7 @@ jmeno: Jon Peddie
 datum: 9.10.1967
 zdroj: https://www.youtube.com/watch?v=UjaPmowIUIA
 obrazek: digital_planimeter.jpg
-text: 9. října 1967 byla podána patentová přihláška US3571932 A na digitální planimetr. Autorm byl Jon Peddie
+text: 9. října 1967 byla podána patentová přihláška US3571932 A na digitální planimetr. Autorem byl Jon Peddie
 ---
 jmeno: Jacob Amsler
 datum: 16.11.1823
@@ -319,13 +325,13 @@ jmeno: Planimetr z kruzitka
 datum: 13.8.1959
 zdroj: https://www.youtube.com/watch?v=u8gTQoSCuRo
 obrazek: kruzitko.jpg
-text: 13. srpna 1959 byl podán český patent CS 102246 na planimetr z běžného kružitka. Přiložené video ukazuje planimetr z kávové lžičky.
+text: 13. srpna 1959 byl podán český patent CS 102246 na planimetr z běžného kružítka. Přiložené video ukazuje planimetr z kávové lžičky.
 ---
 jmeno: MAW
 datum: 11.3.2008
 zdroj: https://sourceforge.net/projects/mathassistant/
 obrazek: maw.jpg
-text: 11. března roku 2008 byly na Sourceforge nahrány zdrojové kódy aplikace Mathematical Assistant on Web. V té době projekt již minimálně půl roku běžel a cílem bylo z přehlednit další vývoj a získat případné spolupracovníky.
+text: 11. března roku 2008 byly na Sourceforge nahrány zdrojové kódy aplikace Mathematical Assistant on Web. V té době projekt již minimálně půl roku běžel a cílem bylo zpřehlednit další vývoj a získat případné spolupracovníky.
 ---
 jmeno: MAW
 datum: 25.4.2013
@@ -341,7 +347,7 @@ text: 2. srpna 1835 se narodil Elisha Gray, dokonalý prototyp největšího smo
 jmeno: Elisha Gray
 datum: 21.1.1901
 zdroj: http://mobil.idnes.cz/bitvu-patentu-na-telefon-vyhral-bell-o-pouhe-dve-hodiny-pgx-/telefony.aspx?c=A070305_162818_telefony_hro
-text: 21. ledna 1901 zemřel  Elisha Gray, dokonalý prototyp největšího smolaře. Patentní přihlášku na telefon doručil o dvě hodiny později a připravil se tak o autorství jednoho znejvýnosnějších vynálezů věšech dob.
+text: 21. ledna 1901 zemřel  Elisha Gray, dokonalý prototyp největšího smolaře. Patentní přihlášku na telefon doručil o dvě hodiny později a připravil se tak o autorství jednoho z nejvýnosnějších vynálezů všech dob.
 ---
 jmeno: Alexander Graham Bell
 datum: 2.8.1922
@@ -356,7 +362,7 @@ text: 3. března 1847 se narodil Alexander Graham Bell, vynálezce telefonu, jed
 jmeno: telefon
 datum: 14.2.1876
 zdroj: http://mobil.idnes.cz/bitvu-patentu-na-telefon-vyhral-bell-o-pouhe-dve-hodiny-pgx-/telefony.aspx?c=A070305_162818_telefony_hro
-text: 14. února 1876 na patentním úřadě v rozmezí dvou hodin neuveřitelnou shodou náhod podali patenty na telefon Alexander Bell a  Elisha Gray.
+text: 14. února 1876 na patentním úřadě v rozmezí dvou hodin neuvěřitelnou shodou náhod podali patenty na telefon Alexander Bell a  Elisha Gray.
 ---
 jmeno: Neil Armstrong
 datum: 5.8.1930
@@ -396,7 +402,7 @@ text: 11. prosince 1950 zemřel Leslie Comrie, průkopník použití mechanický
 jmeno: iphone
 datum: 29.6.2007
 zdroj: https://www.youtube.com/watch?v=c_m2F_ph_uU
-text: 29. června 2007 byl představen první iPhone, přístroj který proměnil mobil na centrum zábavy. Hlavní hvězdou byl pochopitelěn charismatický Steve Jobs.
+text: 29. června 2007 byl představen první iPhone, přístroj který proměnil mobil na centrum zábavy. Hlavní hvězdou byl pochopitelně charismatický Steve Jobs.
 ---
 jmeno: ipad
 datum: 27.1.2010
@@ -427,7 +433,7 @@ text: Dne 18. května 2009 byl spuštěn webový portál WolframAlpha, který um
 datum: 4.11.1946
 jmeno: Richard Fateman
 zdroj: http://maxima.sourceforge.net/
-text: 4. listopadu 1946 se narodil Richard Fateman, emeritní profesor University of California, Berkeley. Tento vědec stál u samých počátků použití pořítačů k symbolickým výpočtům. Hrál velkou roli ve vývoji programu Maxima, který obstarává výpočty i pro MAW.
+text: 4. listopadu 1946 se narodil Richard Fateman, emeritní profesor University of California, Berkeley. Tento vědec stál u samých počátků použití počítačů k symbolickým výpočtům. Hrál velkou roli ve vývoji programu Maxima, který obstarává výpočty i pro MAW.
 ---
 datum: 28.12.1969
 jmeno: Linus Torvalds
@@ -452,4 +458,9 @@ text: 10. ledna 1938 se narodil Donald Ervin Knuth, přední informatik, autor t
 datum: 25.8.1991
 zdroj: http://www.thelinuxdaily.com/2010/04/the-first-linux-announcement-from-linus-torvalds/
 jmeno: linux
-text: 25. srpna 1991 poprvé Linus Torvalds veřejně oznámil vývoj operačního systému Linux, na kterém pracoval od dubna. Dnes jse jedná o systém na kterém běží prakticky všechny superpočítače na světě, většina světových webových serverů a je vhodný i prokoncové uživatele --- pohání všechny osobní počítače autora MAWu.
+text: 25. srpna 1991 poprvé Linus Torvalds veřejně oznámil vývoj operačního systému Linux, na kterém pracoval od dubna. Dnes se jedná o systém na kterém běží prakticky všechny superpočítače na světě, většina světových webových serverů a je vhodný i pro koncové uživatele --- pohání všechny osobní počítače autora MAWu.
+---
+datum: 3.1.2008
+zdroj: https://bitbucket.org/robert.marik/maw-html/src/3dcd411affb02058ba258f4282d8fa6370c4cc64/changes.txt?at=default
+jmeno: maw
+text: 3. ledna 2008 je datum prvního zápisku v logu změn aplikace Mathematical Assistant on Web. K tomuto datu začalo být zřejmé, že půjde o větší projekt do kterého je nutno vnést jistý řád.

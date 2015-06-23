@@ -6,8 +6,6 @@ import pyphen
 dic = pyphen.Pyphen(lang='cs_CZ')
 
 import re
-#regday = re.compile('.*\.')
-#regmonth = re.compile('\..*\.')
 
 import time
 currentday = int(time.strftime("%m"))*31+int(time.strftime("%d"))
@@ -18,16 +16,13 @@ mysecondlist = []
 stream = open("data.yaml", "r")
 docs = yaml.load_all(stream)
 for doc in docs:
-#    for k,v in doc.items():
-#        print k, "->", v
     datum=doc["datum"]
     matchObj = re.match( r'(.*)\.(.*)\.', datum, re.M|re.I)
     den=matchObj.group(1)
     mesic=matchObj.group(2)
-#    den = regday.match(datum).group()
-#    mesic = regmonth.match(datum).group()
     mujtext=doc["text"].replace('---','&emdash;')
-    rozdelena_slova=dic.inserted(mujtext).replace('- ',' ').replace('-.','.').replace('(-','(').replace(' -',' ').replace('quo-t;','quot;').replace('-','&shy;').replace('&em&shy;da&shy;sh;',' &mdash; ')
+    rozdelena_slova=mujtext
+    #rozdelena_slova=dic.inserted(mujtext).replace('- ',' ').replace('-.','.').replace('(-','(').replace(' -',' ').replace('quo-t;','quot;').replace('-','&shy;').replace('&em&shy;da&shy;sh;',' &mdash; ')
     optclass='normal'
     if u'zemřel' in doc["text"]:
         optclass='sad'
@@ -38,6 +33,7 @@ for doc in docs:
     else:
         obrazek=doc["jmeno"].rsplit(None, 1)[-1].lower()+".jpg"
     retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,doc["zdroj"],obrazek,rozdelena_slova)
+    retezec_html="<div class='%s'><a href='%s' class='fancybox-media'><div class='vyroci-obalka'><div class='vyroci-obrazek'><img class='miniimg' src='public/mathevents/%s'></div><div class='vyroci-text'>%s</div></div></a></div>"%(optclass,doc["zdroj"],obrazek,rozdelena_slova)
     retezec_en=""
     zdroj_en=doc["zdroj"]
     if 'zdroj_en' in doc:
@@ -45,7 +41,7 @@ for doc in docs:
     if 'text_en' in doc:
         rozdelena_slova_en=doc["text_en"]
         retezec_en="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,zdroj_en,obrazek,rozdelena_slova_en)
-    mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec,retezec_en))
+    mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec,retezec_en,retezec_html))
 
 
 smylist=sorted(mylist, key=lambda polozka: polozka[0])
@@ -55,17 +51,17 @@ f.write("<style>.sad{background-color:lightgray;} .nohref a {color:black;} .mini
 fh = open('events_full_all.html','w')
 fh.write("<div class='vyroci'>\n")
 for i in smylist:
-    mysecondlist.append((i[1], i[2], i[4]))
+    mysecondlist.append((i[1], i[2], i[4], i[5]))
     f.write("array_push($sdeleniCZ,\"%s\");"%i[3].encode('utf-8'))
     f.write("\n")
     if i[4]!="":
         f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
     f.write("\n\n")
-    fh.write("<div class=jednapolozka>%s</div>\n"%i[3].encode('utf-8').replace("public/mathevents","http://um.mendelu.cz/maw-html/public/mathevents"))
+    fh.write("<div class=jednapolozka>%s</div>\n"%i[5].encode('utf-8').replace("public/mathevents","http://um.mendelu.cz/maw-html/public/mathevents"))
 f.write("?>\n\n\n")
 f.close
 fh.write("</div>")
-fh.write("?>\n\n\n")
+fh.close
 
 f = open('events_current.php','w')
 fh = open('events_current.html','w')
@@ -81,7 +77,7 @@ for i in smylist:
             f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
         f.write("\n\n")
     if i[0]<currentday+5 and currentday-2<i[0]:
-        fh.write("<div class=jednapolozka>%s</div>\n"%i[3].encode('utf-8').replace("public/mathevents","http://um.mendelu.cz/maw-html/public/mathevents"))
+        fh.write("<div class=jednapolozka>%s</div>\n"%i[5].encode('utf-8').replace("public/mathevents","http://um.mendelu.cz/maw-html/public/mathevents"))
 f.write("?>\n\n\n")
 fh.write("</div>")
 f.close
