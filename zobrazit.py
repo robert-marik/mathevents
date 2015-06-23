@@ -20,7 +20,7 @@ for doc in docs:
     matchObj = re.match( r'(.*)\.(.*)\.', datum, re.M|re.I)
     den=matchObj.group(1)
     mesic=matchObj.group(2)
-    mujtext=doc["text"].replace('---','&emdash;')
+    mujtext=doc["text"].replace('---','&mdash;')
     rozdelena_slova=mujtext
     #rozdelena_slova=dic.inserted(mujtext).replace('- ',' ').replace('-.','.').replace('(-','(').replace(' -',' ').replace('quo-t;','quot;').replace('-','&shy;').replace('&em&shy;da&shy;sh;',' &mdash; ')
     optclass='normal'
