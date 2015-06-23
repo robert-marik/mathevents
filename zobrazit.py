@@ -32,6 +32,8 @@ for doc in docs:
         obrazek=doc["obrazek"]
     else:
         obrazek=doc["jmeno"].rsplit(None, 1)[-1].lower()+".jpg"
+    if currentday<=int(mesic)*31+int(den):
+        optclass=optclass+" future"
     retezec="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,doc["zdroj"],obrazek,rozdelena_slova)
     retezec_html="<div class='%s'><a href='%s' class='fancybox-media'><div class='vyroci-obalka'><div class='vyroci-obrazek'><img class='miniimg' src='public/mathevents/%s'></div><div class='vyroci-text'>%s</div></div></a></div>"%(optclass,doc["zdroj"],obrazek,rozdelena_slova)
     retezec_en=""
