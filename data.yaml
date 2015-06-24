@@ -464,3 +464,8 @@ datum: 3.1.2008
 zdroj: https://bitbucket.org/robert.marik/maw-html/src/3dcd411affb02058ba258f4282d8fa6370c4cc64/changes.txt?at=default
 jmeno: maw
 text: 3. ledna 2008 je datum prvního zápisku v logu změn aplikace Mathematical Assistant on Web. K tomuto datu začalo být zřejmé, že půjde o větší projekt do kterého je nutno vnést jistý řád.
+---
+datum: 9.12.2013
+jmeno: mawformula
+zdroj: http://user.mendelu.cz/maw
+text: Od začátku prosince 2013 se výsledky výpočtu MAWu nezobrazují jako PDF, ale v html pomocí technologie MathJax.
