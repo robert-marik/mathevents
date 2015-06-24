@@ -151,7 +151,7 @@ datum: 5.7.1698
 jmeno: Function
 zdroj: http://www.quora.com/Why-are-functions-in-mathematics-called-functions-Who-first-came-up-with-that-name-anyway
 obrazek: function.jpg
-text: Jakob Bernoulli v dopise Wilhelmovi Leibnitzovi použil pojem funkce v moderním smyslu tohoto slova, jak ji v matematice chápeme dnes.
+text: Jakob Bernoulli v dopise Wilhelmovi Leibnitzovi datovaném 5. července 1698 poprvé použil pojem funkce v moderním smyslu tohoto slova, jak ji v matematice chápeme dnes.
 ---
 datum: 10.7.1856
 jmeno: Nikola Tesla
@@ -469,3 +469,39 @@ datum: 9.12.2013
 jmeno: mawformula
 zdroj: http://user.mendelu.cz/maw
 text: Od začátku prosince 2013 se výsledky výpočtu MAWu nezobrazují jako PDF, ale v html pomocí technologie MathJax.
+---
+datum: 5.10.1781
+jmeno: Bernard Bolzano
+zdroj: https://cs.wikipedia.org/wiki/Bernard_Bolzano
+text: 5. října 1781 se narodil Bernard Bolzano, nejznámější český matematik, který zásadně napomohl ke zpřesnění konceptu matematické analýzy a studia funkcí.
+---
+datum: 18.12.1848
+jmeno: Bernard Bolzano
+zdroj: https://cs.wikipedia.org/wiki/Bernard_Bolzano
+text: 18. prosince 1848 zemřel Bernard Bolzano, nejznámější český matematik, který zásadně napomohl ke zpřesnění konceptu matematické analýzy a studia funkcí.
+---
+jmeno: August Möbius
+obrazek: moebius.jpg
+datum: 17.11.1790
+zdroj: https://cs.wikipedia.org/wiki/August_Ferdinand_M%C3%B6bius
+text: 17. listopadu 1790 se narodil August Möbius, &quot;vynálezce&quot; Möbiovy pásky, plochy která má pouye jednu stranu, nemá rub a líc.
+---
+jmeno: Karl Weierstrass
+datum: 31.10.1815
+zdroj: https://en.wikipedia.org/wiki/Karl_Weierstrass
+text: 31. října 1815 se narodil Karl Weierstrass,  německý matematik často nazýváný jako &quot;otec moderní matematické analýzy&quot;. 
+---
+jmeno: Karl Weierstrass
+datum: 19.2.1897
+zdroj: https://en.wikipedia.org/wiki/Karl_Weierstrass
+text: 19. února 1897 zemřel Karl Weierstrass,  německý matematik často nazýváný jako &quot;otec moderní matematické analýzy&quot;. 
+---
+jmeno: Gustav Frobenius
+datum: 26.10.1849
+zdroj: https://cs.wikipedia.org/wiki/Ferdinand_Georg_Frobenius
+text: 26. října 1849 se narodil Ferdinand Gustav Frobenius, německý matematik, jehož jméno nese věta o řešitelnosti soustavy lineárních rovnic.
+---
+jmeno: Gustav Frobenius
+datum: 31.8.1917
+zdroj: https://cs.wikipedia.org/wiki/Ferdinand_Georg_Frobenius
+text: 31. srpna 1917 zemřel Ferdinand Gustav Frobenius, německý matematik, jehož jméno nese věta o řešitelnosti soustavy lineárních rovnic.
