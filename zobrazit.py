@@ -43,10 +43,27 @@ for doc in docs:
     if 'text_en' in doc:
         rozdelena_slova_en=doc["text_en"]
         retezec_en="<div class='nohref %s'><a href='%s' class='fancybox-media'><img class='miniimg' src='public/mathevents/%s'>%s</a></div>"%(optclass,zdroj_en,obrazek,rozdelena_slova_en)
-    mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec,retezec_en,retezec_html))
+    mylist.append(( int(mesic)*31+int(den),doc["datum"],doc["jmeno"],retezec,retezec_en,retezec_html,doc["text"]))
 
 
 smylist=sorted(mylist, key=lambda polozka: polozka[0])
+
+
+f = open('events.md','w')
+f.write("Matematická výročí\n===================\n")
+for i in smylist:
+    f.write("\n")
+    f.write("\n")
+    f.write(i[2].encode('utf-8'))
+    f.write("\n")
+    f.write("----------------\n")
+    f.write("\n")
+    f.write("&nbsp; "+i[6].encode('utf-8'))
+    f.write("\n")
+f.close
+
+
+
 
 f = open('events_all.php','w')
 f.write("<style>.sad{background-color:lightgray;} .nohref a {color:black;} .miniimg {margin-bottom:5px;}</style>\n<?php\n\n$sdeleniCZ=array();\n\n$sdeleniEN=array();\n\n")

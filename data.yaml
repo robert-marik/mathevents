@@ -93,7 +93,7 @@ obrazek: euler.png
 text: 18. září 1783 zemřel Leonhard Euler, jeden z nejvýznamnějších matematiků a fyziků všech dob.
 ---
 datum: 24.6.1974
-jmeno: Robert Mařík
+jmeno: MAW
 zdroj: http://user.mendelu.cz/marik
 obrazek: marik.jpg
 text: Dne 24. června 1974 se narodil autor aplikace Mathematical Assistant on Web.
@@ -195,7 +195,7 @@ zdroj: https://cs.wikipedia.org/wiki/Maria_Curie-Sk%C5%82odowska
 text: 4. července 1934 zemřela polská vědkyně Maria Curie-Skłodowska. Získala dvě Nobelovy ceny ve dvou různých oborech (chemie a fzyika).
 obrazek: sklodowska.jpg
 ---
-zdroj: https://cs.wikipedia.org/wiki/HP-35
+zdroj: https://www.youtube.com/watch?v=qyDYuCs0ZKQ
 datum: 4.1.1972
 jmeno: HP 35
 obrazek: hp.jpg
@@ -203,7 +203,7 @@ text: Firma Hewlett-Packard představila 4. ledna 1972 první kapesní vědecký
 ---
 zdroj: https://www.youtube.com/watch?v=8lXxJ5eIvII
 datum: 13.7.2018
-jmeno: zatmeni Slunce
+jmeno: Zatmění Slunce
 obrazek: zatmeni.jpg
 text: Nejbližší zatmění Slunce, které nastane v pátek třináctého, bude v pátek 13.7.2018. Poslední zatmění Slunce v pátek třináctého bylo v roce 1974 a v obou případech jde o zatmění částečné.
 ---
@@ -337,17 +337,17 @@ jmeno: MAW
 datum: 25.4.2013
 zdroj: http://um.mendelu.cz
 obrazek: maw.jpg
-text: 25. dubna 2013 byl spuštěn nový virtuální obsluhující aplikaci Mathematical Assistant on Web. Uživatelé pocítili znatelný nárustu výkonu.
+text: 25. dubna 2013 byl spuštěn nový virtuální server obsluhující aplikaci Mathematical Assistant on Web. Uživatelé pocítili znatelný nárustu výkonu.
 ---
 jmeno: Elisha Gray
 datum: 2.8.1835
 zdroj: http://mobil.idnes.cz/bitvu-patentu-na-telefon-vyhral-bell-o-pouhe-dve-hodiny-pgx-/telefony.aspx?c=A070305_162818_telefony_hro
-text: 2. srpna 1835 se narodil Elisha Gray, dokonalý prototyp největšího smolaře. Patentní přihlášku na telefon doručil o dvě hodiny později a připravil se tak o autorství jednoho znejvýnosnějších vynálezů všech dob.
+text: 2. srpna 1835 se narodil Elisha Gray, dokonalý prototyp největšího smolaře. Patentní přihlášku na telefon doručil dvě hodiny po Alexandru Bellovi a připravil se tak o autorství jednoho znejvýnosnějších vynálezů všech dob.
 ---
 jmeno: Elisha Gray
 datum: 21.1.1901
 zdroj: http://mobil.idnes.cz/bitvu-patentu-na-telefon-vyhral-bell-o-pouhe-dve-hodiny-pgx-/telefony.aspx?c=A070305_162818_telefony_hro
-text: 21. ledna 1901 zemřel  Elisha Gray, dokonalý prototyp největšího smolaře. Patentní přihlášku na telefon doručil o dvě hodiny později a připravil se tak o autorství jednoho z nejvýnosnějších vynálezů všech dob.
+text: 21. ledna 1901 zemřel  Elisha Gray, dokonalý prototyp největšího smolaře. Patentní přihlášku na telefon doručil dvě hodiny po Alexandru Bellovi a připravil se tak o autorství jednoho z nejvýnosnějších vynálezů všech dob.
 ---
 jmeno: Alexander Graham Bell
 datum: 2.8.1922
@@ -359,7 +359,7 @@ datum: 3.3.1847
 zdroj: http://mobil.idnes.cz/bitvu-patentu-na-telefon-vyhral-bell-o-pouhe-dve-hodiny-pgx-/telefony.aspx?c=A070305_162818_telefony_hro
 text: 3. března 1847 se narodil Alexander Graham Bell, vynálezce telefonu, jednoho z nejrozšířenějších vynálezů. Licenční poplatky jen z prvních dvaceti let telefonování mu vynesly sto milionů dolarů.
 ---
-jmeno: telefon
+jmeno: Telefon
 datum: 14.2.1876
 zdroj: http://mobil.idnes.cz/bitvu-patentu-na-telefon-vyhral-bell-o-pouhe-dve-hodiny-pgx-/telefony.aspx?c=A070305_162818_telefony_hro
 text: 14. února 1876 na patentním úřadě v rozmezí dvou hodin neuvěřitelnou shodou náhod podali patenty na telefon Alexander Bell a  Elisha Gray.
@@ -379,12 +379,13 @@ datum: 6.4.1829
 zdroj: https://cs.wikipedia.org/wiki/Niels_Henrik_Abel
 text: 6. dubna 1829 zemřel ve věku 26 let  Niels Henrik Abel, norský matematik, který ukázal, že algebraické rovnice nejsou obecně řešitelné.
 ---
-jmeno: eskalator
+jmeno: Eskalátor
+obrazek: eskalator
 datum: 9.8.1859
 zdroj: http://www.todayinsci.com/8/8_09.htm
 text: Devátý srpen byl bohatý na patenty. Byl patentován dieslový motor (1898), eskalátory (1859) a elektrická pračka (1910).
 ---
-jmeno: pc
+jmeno: PC
 datum: 12.8.1981
 zdroj: http://www.cnews.cz/ibm-pc-12-srpna-1981-se-zacala-psat-historie-modernich-pocitacu-0
 text: 12. srpna 1981 byl představen první počítač IBM PC.
@@ -399,12 +400,12 @@ datum: 11.12.1950
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
 text: 11. prosince 1950 zemřel Leslie Comrie, průkopník použití mechanických kalkulátorů (Brunsviga) a děrnoštítkových kalkulátorů, určených původně pro obchodníky, pro matematické výpočty.
 ---
-jmeno: iphone
+jmeno: iPhone
 datum: 29.6.2007
 zdroj: https://www.youtube.com/watch?v=c_m2F_ph_uU
 text: 29. června 2007 byl představen první iPhone, přístroj který proměnil mobil na centrum zábavy. Hlavní hvězdou byl pochopitelně charismatický Steve Jobs.
 ---
-jmeno: ipad
+jmeno: iPad
 datum: 27.1.2010
 zdroj: https://www.youtube.com/watch?v=FtBpZltfR7o
 text: 27. ledna 2010 Steve Jobs představil první iPad --- ukázal lidem jak používat tablet jako centrum pro zábavu a komunikaci
@@ -415,7 +416,7 @@ datum: 30.7.1971
 obrazek: apollo.jpg
 text: 30. července 1971 přistála na Měsíci expedice Apollo 15. Mimo jiné provedli školní experiment --- současný pád kladiva a peříčka bez odporu vzduchu.
 ---
-jmeno: propiska
+jmeno: Propiska
 zdroj: https://cs.wikipedia.org/wiki/Propiska
 datum: 15.6.1938
 text: 15. června 1938 byla patentována propiska --- pro matematiky jeden z nejpoužívanějších nástrojů.
@@ -426,7 +427,7 @@ zdroj: http://www.wolframalpha.com/
 text: Dne 29. srpna 1959 se narodil vynikající britský vědec, programátor a obchodník Stephen Wolfram. Z jeho dílny vyšly program Mathematica a služba WolframAlpha.
 ---
 datum: 18.5.2009
-jmeno: wolframalpha
+jmeno: WolframAlpha
 zdroj: http://www.wolframalpha.com/
 text: Dne 18. května 2009 byl spuštěn webový portál WolframAlpha, který umožňuje přístup k symbolickým výpočtům zdarma a prostřednictvím webového prohlížeče.
 ---
@@ -457,16 +458,17 @@ text: 10. ledna 1938 se narodil Donald Ervin Knuth, přední informatik, autor t
 ---
 datum: 25.8.1991
 zdroj: http://www.thelinuxdaily.com/2010/04/the-first-linux-announcement-from-linus-torvalds/
-jmeno: linux
+jmeno: Linux
 text: 25. srpna 1991 poprvé Linus Torvalds veřejně oznámil vývoj operačního systému Linux, na kterém pracoval od dubna. Dnes se jedná o systém na kterém běží prakticky všechny superpočítače na světě, většina světových webových serverů a je vhodný i pro koncové uživatele --- pohání všechny osobní počítače autora MAWu.
 ---
 datum: 3.1.2008
 zdroj: https://bitbucket.org/robert.marik/maw-html/src/3dcd411affb02058ba258f4282d8fa6370c4cc64/changes.txt?at=default
-jmeno: maw
+jmeno: MAW
 text: 3. ledna 2008 je datum prvního zápisku v logu změn aplikace Mathematical Assistant on Web. K tomuto datu začalo být zřejmé, že půjde o větší projekt do kterého je nutno vnést jistý řád.
 ---
 datum: 9.12.2013
-jmeno: mawformula
+obrazek: MAW
+obrazek: mawformula
 zdroj: http://user.mendelu.cz/maw
 text: Od začátku prosince 2013 se výsledky výpočtu MAWu nezobrazují jako PDF, ale v html pomocí technologie MathJax.
 ---
@@ -494,7 +496,7 @@ text: 31. října 1815 se narodil Karl Weierstrass,  německý matematik často 
 jmeno: Karl Weierstrass
 datum: 19.2.1897
 zdroj: https://en.wikipedia.org/wiki/Karl_Weierstrass
-text: 19. února 1897 zemřel Karl Weierstrass,  německý matematik často nazýváný jako &quot;otec moderní matematické analýzy&quot;. 
+text: 19. února 1897 zemřel Karl Weierstrass, německý matematik často nazýváný jako &quot;otec moderní matematické analýzy&quot;. 
 ---
 jmeno: Gustav Frobenius
 datum: 26.10.1849
