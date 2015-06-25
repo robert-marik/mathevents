@@ -151,6 +151,7 @@ jmeno: Function
 zdroj: https://www.youtube.com/watch?v=2BHzXItkByU
 obrazek: function.jpg
 text: Jakob Bernoulli v dopise Wilhelmovi Leibnitzovi datovaném 5. července 1698 poprvé použil pojem funkce v moderním smyslu tohoto slova, jak ji v matematice chápeme dnes.
+text_en: Jakob Bernoulli for the first time the term function in the modern meaning. It was in a letter to Leibnitz dated July 5, 1698.
 ---
 datum: 10.7.1856
 jmeno: Nikola Tesla
@@ -205,6 +206,7 @@ datum: 13.7.2018
 jmeno: Zatmění Slunce
 obrazek: zatmeni.jpg
 text: Nejbližší zatmění Slunce, které nastane v pátek třináctého, bude v pátek 13.7.2018. Poslední zatmění Slunce v pátek třináctého bylo v roce 1974 a v obou případech jde o zatmění částečné.
+text_en: Next solar eclipse on a Friday the 13th will be on July 2018. The last solar eclipse on a Friday 13th was in December 1974. 
 ---
 zdroj: https://www.youtube.com/watch?v=wW-rd9ZR-TA
 datum: 13.7.1944
@@ -402,7 +404,8 @@ text: 11. prosince 1950 zemřel Leslie Comrie, průkopník použití mechanický
 jmeno: iPhone
 datum: 29.6.2007
 zdroj: https://www.youtube.com/watch?v=c_m2F_ph_uU
-text: 29. června 2007 byl představen první iPhone, přístroj který proměnil mobil na centrum zábavy. Hlavní hvězdou byl pochopitelně charismatický Steve Jobs.
+text: 29. června 2007 šel do prodeje první iPhone, přístroj který proměnil mobil na centrum zábavy. 
+text_en: The first iPhone was released on June 29, 2007.
 ---
 jmeno: iPad
 datum: 27.1.2010
