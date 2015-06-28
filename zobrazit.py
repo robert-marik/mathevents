@@ -95,7 +95,7 @@ for i in smylist:
             f.write("\n\n")
             f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
         f.write("\n\n")
-    if i[0]<currentday+5 and currentday-2<i[0]:
+    if i[0]<currentday+3 and currentday-2<i[0]:
         fh.write("<div class=jednapolozka>%s</div>\n"%i[5].encode('utf-8').replace("public/mathevents","http://um.mendelu.cz/maw-html/public/mathevents"))
 f.write("?>\n\n\n")
 fh.write("</div>")
