@@ -213,12 +213,14 @@ datum: 13.7.1944
 jmeno: Erno Rubik
 obrazek: rubik.jpg
 text: 13. července 1944 se narodil maďarský matematik Erno Rubik, vynálezce populární Rubikovy kostky.
+text_en: Erno Rubik, hungarian mathematician and inventor of famous cube was born on July 13, 1944.
 ---
 datum: 8.7.1894
 jmeno: Pjotr Leonidovič Kapica
 zdroj: https://www.youtube.com/watch?v=2Z6UJbwxBZI
 obrazek: kapica.jpg
 text: 8. července 1894 se narodil Pjotr Leonidovič Kapica, sovětský experimentální fyzik, zabývající se fyzikou nízkých teplot a jevů probíhajících v plazmatu.  Objevil supratekutost helia.
+text_en: Famous Soviet physicist and Nobel laureate Pjotr Leonidovič Kapica was born on July 8, 1894. Discovered superliquidity of liquid helium.
 ---
 datum: 8.4.1984
 jmeno: Pjotr Leonidovič Kapica
@@ -249,6 +251,7 @@ datum: 20.7.1866
 zdroj: https://www.youtube.com/watch?v=CXCtqBlEZ7g
 obrazek: riemann.jpg
 text: 20. července 1866 zemřel Bernhard Riemann, německý matematik, který výrazně přispěl k rozvoji matematické analýzy. Definoval Riemannův integrál.
+text_en: Bernahrd Riemann died on July 20, 1866. German mathematician who made important contributions to analysis and differential geometry.
 ---
 jmeno: Bohuslav Diviš
 datum: 21.7.1959
@@ -261,6 +264,7 @@ datum: 20.7.1822
 obrazek: mendel.jpg
 zdroj: https://www.youtube.com/watch?v=NWqgZUnJdAY
 text: 20. července 1822 se narodil Johann Gregor Mendel, objevitel dědičnosti, jeden z mála českých vědců, jehož jméno zná celý svět.
+text_en: Johann Gregor Mendel was born on July 20, 1822. He gained posthumous fame as the founder of the modern science of genetics. Worked in Brno.
 ---
 jmeno: Johann Gregor Mendel
 datum: 6.1.1884
@@ -297,6 +301,7 @@ datum: 13.7.1878
 zdroj: https://www.youtube.com/watch?v=czIQDrOO4zg
 obrazek: odhner.jpg
 text: 13. července 1878 podal W. Odhner patentovou žádost číslo US209416 A --- první kalkulačka vhodná pro masovou výrobu. Obešla se dokonce bez elektřiny. Patent byl vydán s datem 29.10.1878.
+text_en: July 13, 1878: W. Odhner submitted patent  US209416 A. His invention turned to the first mass produced calculator.
 ---
 jmeno: Willgodt Theophil Odhner
 datum: 29.10.1878
