@@ -289,6 +289,7 @@ datum: 10.8.1845
 zdroj: https://www.youtube.com/watch?v=czIQDrOO4zg
 obrazek: odhner.jpg
 text: 10. srpna 1845 se narodil Willgodt Odhner, švédský inženýr, který sestrojil první masově vyráběnou kalkulačku. Byla plně mechanická s pohonem na kliku.
+text_en: Willgodt Odhner, the inventor of the first mass produced calculator was born on August 10, 1845.
 ---
 jmeno: Willgodt Theophil Odhner
 datum: 15.9.1905
@@ -308,6 +309,7 @@ datum: 29.10.1878
 zdroj: https://www.youtube.com/watch?v=czIQDrOO4zg
 obrazek: odhner.jpg
 text: 29. října 1878 byl vydán US patent 209416 A která znamenal první komerčně úspěšnou kalkulačku. Patent podal 13.7.1878 Willgodt Odhner, švédský inženýr pracující v Petrohradě.
+text_en: W. Odhner got patent  US209416 A on October 29, 1878. His invention turned to the first mass produced calculator. The application was submitted on July 13, 1878.
 ---
 jmeno: Jon Peddie
 datum: 9.10.1967
@@ -361,6 +363,7 @@ jmeno: Elisha Gray
 datum: 2.8.1835
 zdroj: https://www.youtube.com/watch?v=TaVx0DTw_oo
 text: 2. srpna 1835 se narodil Elisha Gray, dokonalý prototyp největšího smolaře. Patentní přihlášku na telefon doručil dvě hodiny po Alexandru Bellovi a připravil se tak o autorství jednoho znejvýnosnějších vynálezů všech dob.
+text_en: Elisha Gray was born on August 2, 1835. He submitted the pattent application for phone only two hours after Graham Bell and lost the invention of one of the most widespread device over the wolrd. 
 ---
 jmeno: Elisha Gray
 datum: 21.1.1901
@@ -371,6 +374,7 @@ jmeno: Alexander Graham Bell
 datum: 2.8.1922
 zdroj: https://www.youtube.com/watch?v=jdgj6G7IZVc
 text: 2.srpna 1922 zemřel Alexander Graham Bell, vynálezce telefonu. Licenční poplatky jen z prvních dvaceti let telefonování mu vynesly sto milionů dolarů.
+text_en: Graham Bell, the inventor of phone, was died on August 2, 1922. He submitted his patent application only two hours after Elisha Gray, who was born on the same day, August 2, 1835.
 ---
 jmeno: Alexander Graham Bell
 datum: 3.3.1847
@@ -386,16 +390,19 @@ jmeno: Neil Armstrong
 datum: 5.8.1930
 zdroj: https://www.youtube.com/watch?v=GS32pRTURdI
 text: 5. srpna 1930 se narodil Neil Armstrong, první člověk který vstoupil na Měsíc.
+text_en: Neil Armstrong, the first man on the Moon, was born on August 5, 1930.
 ---
 jmeno: Niels Henrik Abel
 datum: 5.8.1802
 zdroj: https://www.youtube.com/watch?v=mfXS1stcNQE
 text: 5. srpna 1802 se narodil Niels Henrik Abel, norský matematik, který ukázal, že algebraické rovnice nejsou obecně řešitelné.
+text_en: Niels Henrik Abel was born on August 5, 1802. His most famous result is the first complete proof demonstrating the impossibility of solving the general algebraic in radicals.
 ---
 jmeno: Niels Henrik Abel
 datum: 6.4.1829
 zdroj: https://www.youtube.com/watch?v=mfXS1stcNQE
 text: 6. dubna 1829 zemřel ve věku 26 let  Niels Henrik Abel, norský matematik, který ukázal, že algebraické rovnice nejsou obecně řešitelné.
+text_en: Niels Henrik Abel died on April 6, 1829 in the age only 26 years.  His most famous result is the first complete proof demonstrating the impossibility of solving the general algebraic in radicals.
 ---
 jmeno: Eskalátor
 obrazek: eskalator
@@ -407,11 +414,13 @@ jmeno: PC
 datum: 12.8.1981
 zdroj: https://www.youtube.com/watch?v=YQne2OZizpw
 text: 12. srpna 1981 byl představen první počítač IBM PC.
+text: The first IBM PC was introduced on August 12, 1981.
 ---
 jmeno: Leslie Comrie
 datum: 15.8.1893
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
 text: 15. srpna 1893 se narodil Leslie Comrie, průkopník použití mechanických kalkulátorů (Brunsviga) a děrnoštítkových kalkulátorů, určených původně pro obchodníky, pro matematické výpočty.
+text_en: Leslie Comrie, an astronomer and a pioneer in mechanical computation, was born on August 15, 1893 on New Zealand.
 ---
 jmeno: Leslie Comrie
 datum: 11.12.1950
@@ -434,6 +443,7 @@ zdroj: http://www.youtube.com/watch?v=KDp1tiUsZw8
 datum: 30.7.1971 
 obrazek: apollo.jpg
 text: 30. července 1971 přistála na Měsíci expedice Apollo 15. Mimo jiné provedli školní experiment --- současný pád kladiva a peříčka bez odporu vzduchu.
+text_en: Apollo 15 landed Moon on July 30, 1971. Among others, they did experiment with simultaneous fall of a hammer and a hawk feather at the end of the mission..
 ---
 jmeno: Propiska
 zdroj: https://www.youtube.com/watch?v=a5d-1kIL-I4
