@@ -113,6 +113,9 @@ if count<4:
         if i[0]<currentday+14 and currentday-10<i[0]:
             count = count+1
             f.write("array_push($sdeleniCZ,\"%s\");"%i[3].encode('utf-8'))
+            if i[4]!="":
+                f.write("\n\n")
+                f.write("array_push($sdeleniEN,\"%s\");"%i[4].encode('utf-8'))
             f.write("\n\n")
     f.write("?>\n\n\n")
     f.close
