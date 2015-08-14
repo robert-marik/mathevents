@@ -414,7 +414,7 @@ jmeno: PC
 datum: 12.8.1981
 zdroj: https://www.youtube.com/watch?v=YQne2OZizpw
 text: 12. srpna 1981 byl představen první počítač IBM PC.
-text: The first IBM PC was introduced on August 12, 1981.
+text_en: The first IBM PC was introduced on August 12, 1981.
 ---
 jmeno: Leslie Comrie
 datum: 15.8.1893
@@ -579,6 +579,7 @@ jmeno: Erwin Schrödinger
 obrazek: schroedinger
 zdroj: https://www.youtube.com/watch?v=IOYyCHGWJq4
 text: 12. srpna 1887 se narodil Erwin Schrödinger, rakouský fyzik, jeden z otců-zakladatelů kvantové mechaniky a možná i milovník koček...
+text: Erwin Schrödinger, was a Nobel Prize-winning Austrian physicist who developed a number of fundamental results in the field of quantum theory, was born on August 12, 1887.  He is also known for his &quot;Schrödinger's cat&quot; thought-experiment.
 ---
 jmeno: Ernst Mach
 datum: 18.2.1838
@@ -608,3 +609,10 @@ text: 25. dubna 1915 Jay Randolph Monroe III založil společnost Monroe Calcula
 text_en: The Monroe Calculating Machine Company has been established on April 25, 1915. The company produced mechanical calculators Monroe designed by F. S. Baldwin and is still on the market of (now electronic) calculators.
 zdroj: http://youtu.be/ZZGKYMrpj0A
 obrazek: monroe_calculator.jpg
+---
+jmeno: Mezinarodni den kavy
+datum: 1.10.2015
+text: 1. října slavíme mezinárodní den neopominutelné pomůcky mnoha matematiků minulosti i současnosti. Tento den je světovým dnem kávy. Káva pomáhá nejen udržet pozornost, ale může i stimulovat výpočetní metody, viz přiložené video.
+text_en: Alfréd Rényi  said: A mathematician is a device for turning coffee into theorems. And October 1 is the International Cofee Day. Cofee stimulated not only mathematicians, but also computation algorithms, see the attached video.
+zdroj: https://youtu.be/iqdn8jrJfnE
+obrazek: kava.png
