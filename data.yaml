@@ -516,7 +516,15 @@ jmeno: August Möbius
 obrazek: moebius.jpg
 datum: 17.11.1790
 zdroj: https://www.youtube.com/watch?v=zuUtAWtbVHo
-text: 17. listopadu 1790 se narodil August Möbius, &quot;vynálezce&quot; Möbiovy pásky, plochy která má pouye jednu stranu, nemá rub a líc.
+text: 17. listopadu 1790 se narodil August Möbius, &quot;vynálezce&quot; Möbiovy pásky, plochy která má pouze jednu stranu, nemá rub a líc.
+text_en: August Möbius was born on November 17, 1790. He is best known for his discovery of the Möbius strip, a non-orientable two-dimensional surface with only one side when embedded in three-dimensional Euclidean space.
+---
+jmeno: August Möbius
+obrazek: moebius.jpg
+datum: 26.9.1868
+zdroj: https://www.youtube.com/watch?v=zuUtAWtbVHo
+text: 26. září 1868 zemřel August Möbius, &quot;vynálezce&quot; Möbiovy pásky, plochy která má pouze jednu stranu, nemá rub a líc.
+text_en: August Möbius died on September 26, 1868. He is best known for his discovery of the Möbius strip, a non-orientable two-dimensional surface with only one side when embedded in three-dimensional Euclidean space.
 ---
 jmeno: Karl Weierstrass
 datum: 31.10.1815
@@ -632,3 +640,15 @@ text: 9. června 1925 byl publikován patent US1540826 A pro vrták na vrtání 
 text_en: Patent US1540826 A for drilling hexagon holes was published on June 9, 1925. The author is Harry J.  Watts (Pensylvania). 
 zdroj: https://www.youtube.com/watch?v=PMSbdhQM9GU
 obrazek: drill_hexagon.jpg
+---
+jmeno: Urbain Jean Joseph Le Verrier
+datum: 11.3.1811
+text: 11. března 1811 se narodil Urbain Jean Joseph Le Verrier, francouzský matematik. Proslavil se objevem planety Neptun ryze matematickou cestou, studiem nepravidelností v drahách ostatníhc planet.
+text_en: Urbain Jean Joseph Le Verrier was born on March 11, 1811. He is best known for discovering planet Neptune with no telescope, just using pure mathematics. 
+zdroj: https://youtu.be/keNiv-T6WT4
+---
+jmeno: Urbain Jean Joseph Le Verrier
+datum: 23.9.1877
+text: 23. září 1877 zemřel Urbain Jean Joseph Le Verrier, francouzský matematik. Proslavil se objevem planety Neptun ryze matematickou cestou, studiem nepravidelností v drahách ostatníhc planet.
+text_en: Urbain Jean Joseph Le Verrier died on September 23, 1877. He is best known for discovering planet Neptune with no telescope, just using pure mathematics. 
+zdroj: https://youtu.be/keNiv-T6WT4
