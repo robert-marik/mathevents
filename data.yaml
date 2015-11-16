@@ -516,7 +516,15 @@ jmeno: August Möbius
 obrazek: moebius.jpg
 datum: 17.11.1790
 zdroj: https://www.youtube.com/watch?v=zuUtAWtbVHo
-text: 17. listopadu 1790 se narodil August Möbius, &quot;vynálezce&quot; Möbiovy pásky, plochy která má pouye jednu stranu, nemá rub a líc.
+text: 17. listopadu 1790 se narodil August Möbius, &quot;vynálezce&quot; Möbiovy pásky, plochy která má pouze jednu stranu, nemá rub a líc.
+text_en: August Möbius was born on November 17, 1790. He is best known for his discovery of the Möbius strip, a non-orientable two-dimensional surface with only one side when embedded in three-dimensional Euclidean space.
+---
+jmeno: August Möbius
+obrazek: moebius.jpg
+datum: 26.9.1868
+zdroj: https://www.youtube.com/watch?v=zuUtAWtbVHo
+text: 26. září 1868 zemřel August Möbius, &quot;vynálezce&quot; Möbiovy pásky, plochy která má pouze jednu stranu, nemá rub a líc.
+text_en: August Möbius died on September 26, 1868. He is best known for his discovery of the Möbius strip, a non-orientable two-dimensional surface with only one side when embedded in three-dimensional Euclidean space.
 ---
 jmeno: Karl Weierstrass
 datum: 31.10.1815
@@ -632,3 +640,65 @@ text: 9. června 1925 byl publikován patent US1540826 A pro vrták na vrtání 
 text_en: Patent US1540826 A for drilling hexagon holes was published on June 9, 1925. The author is Harry J.  Watts (Pensylvania). 
 zdroj: https://www.youtube.com/watch?v=PMSbdhQM9GU
 obrazek: drill_hexagon.jpg
+---
+jmeno: Urbain Jean Joseph Le Verrier
+datum: 11.3.1811
+text: 11. března 1811 se narodil Urbain Jean Joseph Le Verrier, francouzský matematik. Proslavil se objevem planety Neptun ryze matematickou cestou, studiem nepravidelností v drahách ostatních planet.
+text_en: Urbain Jean Joseph Le Verrier was born on March 11, 1811. He is best known for discovering planet Neptune with no telescope, just using pure mathematics. 
+zdroj: https://youtu.be/keNiv-T6WT4
+---
+jmeno: Urbain Jean Joseph Le Verrier
+datum: 23.9.1877
+text: 23. září 1877 zemřel Urbain Jean Joseph Le Verrier, francouzský matematik. Proslavil se objevem planety Neptun ryze matematickou cestou, studiem nepravidelností v drahách ostatních planet.
+text_en: Urbain Jean Joseph Le Verrier died on September 23, 1877. He is best known for discovering planet Neptune with no telescope, just using pure mathematics. 
+zdroj: https://youtu.be/keNiv-T6WT4
+---
+jmeno: Vannevar Bush
+datum: 11.3.1890
+text: 11.3.1890 se narodil Vannevar Bush, americký vědec, inženýr, vynálezce a vizionář. V roce 1927 postavil počítač umožňující řešit diferenciální rovnice, což mělo obrovské využití ve vědě, technice a vojenství. 
+text_en: Vannevar Bush, an american engineer and inventor was born on March 11, 1890. He constructed (1927) the differential analyzer, analog computer capable to solve complex differential equations. This allowed crucial progress in many scientific problems, including construction of nuclear weapon.
+zdroj: https://youtu.be/hIinz4fKGpo
+obrazek: bush.png
+---
+jmeno: Vannevar Bush
+datum: 28.6.1974
+text: 28.6.1974 zemřel Vannevar Bush, americký vědec, inženýr, vynálezce a vizionář. V roce 1927 postavil počítač umožňující řešit diferenciální rovnice, což mělo obrovské využití ve vědě, technice a vojenství. 
+text_en: Vannevar Bush, an american engineer and inventor was died on June 28, 1974. He constructed (1927) the differential analyzer, analog computer capable to solve complex differential equations. This allowed crucial progress in many scientific problems, including construction of nuclear weapon.
+zdroj: https://youtu.be/hIinz4fKGpo
+obrazek: bush.png
+---
+jmeno: Max Planck
+datum: 4.10.1947
+text: 4. října 1947 zemřel Max Planck, německý fyzik a jeden ze zakladatelů kvantové teorie - teorie která odhalila, že náš svět není spojitý, ale změny probíhají po skocích (kvantech). A to se všemi důsledky, které tato skutečnost způsobuje.
+text_en: Max Planck, prominent physicist died on October 4, 1947. He is an author of quantum theory - theory which reveals that our world is not continuous.
+zdroj: https://youtu.be/zDQH5x7svfg
+---
+jmeno: Max Planck
+datum: 23.4.1858
+text: 23. dubna 1858 se narodil Max Planck, německý fyzik a jeden ze zakladatelů kvantové teorie - teorie která odhalila, že náš svět není spojitý, ale změny probíhají po skocích (kvantech). A to se všemi důsledky, které tato skutečnost způsobuje.
+text_en: Max Planck, prominent physicist was born on April 23, 1858. He is an author of quantum theory - theory which reveals that our world is not continuous.
+zdroj: https://youtu.be/zDQH5x7svfg
+---
+jmeno: Vito Volterra
+datum: 11.10.1940
+text: 11. října 1940 zemřel Vito Volterra, italský matematik známý svým přínosem v matematické biologii. Jeho jméno nese klasický model dravce a kořisti (Lotkův-Volterrův model).
+text_en: Vito Volterra, italian mathematician known for his contributions in mathematical biology (Lotka-Volterra predator-prey model) was born on October 11, 1940.
+zdroj: https://youtu.be/qp4i_Br8-dE
+---
+jmeno: Vito Volterra
+datum: 3.5.1860
+text: 3. května 1860 se narodil Vito Volterra, italský matematik známý svým přínosem v matematické biologii. Jeho jméno nese klasický model dravce a kořisti (Lotkův-Volterrův model).
+text_en: Vito Volterra, italian mathematician known for his contributions in mathematical biology (Lotka-Volterra predator-prey model) was born on May 3, 1860.
+zdroj: https://youtu.be/qp4i_Br8-dE
+---
+jmeno: Pierre François Verhulst
+datum: 28.10.1804
+text: 28. října 1804 se narodil Pierre François Verhulst, francouzský matematik který v roce 1838 publikoval logistickou rovnici, výchozí rovnici pro modelování růstu populací v matematické biologii.
+text_en: Pierre François Verhulst, mathematician who published the logistic equation, the classical equation for modelling population growth, was born on October 28, 1804.
+zdroj: https://youtu.be/oiDvNs15tkE
+---
+jmeno: Pierre François Verhulst
+datum: 15.2.1849
+text: 15 února 1849 zemřel Pierre François Verhulst, francouzský matematik který v roce 1838 publikoval logistickou rovnici, výchozí rovnici pro modelování růstu populací v matematické biologii.
+text_en: Pierre François Verhulst, mathematician who published the logistic equation, the classical equation for modelling population growth, died on February 15, 1849.
+zdroj: https://youtu.be/oiDvNs15tkE
