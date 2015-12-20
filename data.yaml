@@ -732,7 +732,7 @@ zdroj_en: https://en.wikipedia.org/wiki/Norbert_Wiener
 ---
 jmeno: Enrico Fermi
 datum: 28.11.1954
-text: 28. listopadu 1954 zemřel Enrico Fermi, italský fyzik, nositel Nobelovy ceny, budovatel kvantové teorie. Přiložené video obsahuje jednu z jeho kalkulaček.
+text: Dne 28. listopadu 1954 zemřel Enrico Fermi, italský fyzik, nositel Nobelovy ceny, budovatel kvantové teorie. Přiložené video obsahuje jednu z jeho kalkulaček.
 text_en: Enrico Fermi, one of the chief architects of the nuclear age, died on November 28, 1954. The attached video shows one of his calculators.
 zdroj: https://www.youtube.com/watch?v=dlkTFEz8Lz0
 ---
@@ -741,5 +741,37 @@ datum: 10.12.1804
 zdroj: https://cs.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi
 zdroj_en: https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi
 obrazek: jacobi.jpg
-text: 10. prosince 1804 se narodil Carl Gustav Jacobi Jacobi, obecně považovaný za jednoho z největších matematiků všech dob.
+text: Dne 10. prosince 1804 se narodil Carl Gustav Jacobi Jacobi, obecně považovaný za jednoho z největších matematiků všech dob.
 text_en: Carl Gustav Jacob Jacob was born on December 10, 1804. He was one of the most prominent mathematicians.
+---
+jmeno: John von Neumann
+datum: 28.12.1903
+zdroj: http://www.neviditelnycert.cz/blog/pel-mel/556-mimozemstane-jsou-tady-a-rikaji-si-madari.html
+zdroj_en: https://en.wikipedia.org/wiki/The_Martians_%28group%29
+obrazek: neumann.jpg
+text: Dne 28. prosince 1903 se narodil nejslavnější z Marťanů, geniální matematik John von Neumann (pro vysvětlení následujte odkaz).
+text_en: The prominent Martian John von Neuman vas born on December 28, 1903. (Click the link for an explanation related to the Martians group).
+---
+jmeno: John von Neumann
+datum: 8.2.1957
+zdroj: http://www.neviditelnycert.cz/blog/pel-mel/556-mimozemstane-jsou-tady-a-rikaji-si-madari.html
+zdroj_en: https://en.wikipedia.org/wiki/The_Martians_%28group%29
+obrazek: neumann.jpg
+text: Dne 8. února 1957 zemřel nejslavnější z Marťanů, geniální matematik John von Neumann (pro vysvětlení následujte odkaz).
+text_en: The prominent Martian John von Neuman died on February 8, 1957. (Click the link for an explanation related to the Martians group).
+---
+jmeno: Leo Szilard
+datum: 11.2.1898
+zdroj: https://cs.wikipedia.org/wiki/Le%C3%B3_Szil%C3%A1rd
+zdroj_en: https://en.wikipedia.org/wiki/The_Martians_%28group%29
+obrazek: szilard.jpg
+text: Dne 11. února 1898 se narodil Leo Szilard, jeden z klíčových fyziků pracujících na výzkumu řetězové reakce, jeden z Marťanů, John von Neumann (pro vysvětlení následujte odkaz).
+text_en: The prominent physicst Leo Szilard, a member of the Martians group, was born on February 11, 1898. (Click the link for an explanation related to the Martians group).
+---
+jmeno: Leo Szilard
+datum: 30.5.1964
+zdroj: https://cs.wikipedia.org/wiki/Le%C3%B3_Szil%C3%A1rd
+zdroj_en: https://en.wikipedia.org/wiki/The_Martians_%28group%29
+obrazek: szilard.jpg
+text: Dne 30. května 1964 zemřel Leo Szilard, jeden z klíčových fyziků pracujících na výzkumu řetězové reakce, jeden z Marťanů, John von Neumann (pro vysvětlení následujte odkaz).
+text_en:  The prominent physicst Leo Szilard, a member of the Martians group, died on May 30, 1964. (Click the link for an explanation related to the Martians group).
