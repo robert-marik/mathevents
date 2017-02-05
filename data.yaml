@@ -749,7 +749,7 @@ datum: 28.12.1903
 zdroj: http://www.neviditelnycert.cz/blog/pel-mel/556-mimozemstane-jsou-tady-a-rikaji-si-madari.html
 zdroj_en: https://en.wikipedia.org/wiki/The_Martians_%28group%29
 obrazek: neumann.jpg
-text: Dne 28. prosince 1903 se narodil nejslavnější z Marťanů, geniální matematik John von Neumann (pro vysvětlení následujte odkaz).
+text: Dne 28. prosince 1903 se narodil nejslavnější z Marťanů, geniální matematik John von Neumann (pro vysvětlení skupiny Marťanů následujte odkaz).
 text_en: The prominent Martian John von Neuman vas born on December 28, 1903. (Click the link for an explanation related to the Martians group).
 ---
 jmeno: John von Neumann
@@ -775,3 +775,52 @@ zdroj_en: https://en.wikipedia.org/wiki/The_Martians_%28group%29
 obrazek: szilard.jpg
 text: Dne 30. května 1964 zemřel Leo Szilard, jeden z klíčových fyziků pracujících na výzkumu řetězové reakce, jeden z Marťanů, John von Neumann (pro vysvětlení následujte odkaz).
 text_en:  The prominent physicst Leo Szilard, a member of the Martians group, died on May 30, 1964. (Click the link for an explanation related to the Martians group).
+---
+jmeno: Carl Friden
+datum: 11.4.1891
+zdroj: https://youtu.be/qKm9eM2BuM0
+zdroj_en: https://youtu.be/qKm9eM2BuM0
+obrazek: friden2.jpg
+text: Dne 11. dubna 1891 se narodil Carl Friden, konstruktér slavné řady mechanických počítačů používaných v 50. letech například i v NASA. 
+text_en:  Carl Friden, the mechanical engineer who developed famous mechanical calculators was born on April 11, 1891. His calculators were in daily use in many business offices as well as in NASA laboratories.
+---
+jmeno: Carl Friden
+datum: 29.4.1945
+zdroj: https://youtu.be/qKm9eM2BuM0
+zdroj_en: https://youtu.be/qKm9eM2BuM0
+obrazek: friden2.jpg
+text: Dne 29. dubna 1945 zemřel Carl Friden, konstruktér slavné řady mechanických počítačů používaných v 50. letech například i v NASA. 
+text_en:  Carl Friden, the mechanical engineer who developed famous mechanical calculators died on April 29, 1945. His calculators were in daily use in many business offices as well as in NASA laboratories.
+---
+jmeno: Harold T. Avery
+datum: 24.10.1892
+zdroj: https://youtu.be/S13uzVBNhtg
+zdroj_en: https://youtu.be/S13uzVBNhtg
+obrazek: avery.jpg
+text: Dne 24. října 1892 se narodil Harold T. Avery, šéfkonstruktér nejrychlejších mechanických kalkulátorů Marchant Silent Speed, používaných nejen v kancelářích obchodníků ekonomů, ale i v Los Alamos při práci na první atomové bombě.
+text_en:  Harold T. Avery, the chief engineer at Marchant company, the inverntor of the fastest mechanical computing mechanism (Silent Speed) was bon on October 24,1892. His calculators were in daily use in many business offices as well as in Los Alamos laboratories when running diffcult computations for the first atomic bomb.
+---
+jmeno: Harold T. Avery
+datum: 1.8.1974
+zdroj: https://youtu.be/S13uzVBNhtg
+zdroj_en: https://youtu.be/S13uzVBNhtg
+obrazek: avery.jpg
+text: Dne 1. srpna 1974 zemřel Harold T. Avery, šéfkonstruktér nejrychlejších mechanických kalkulátorů Marchant Silent Speed, používaných nejen v kancelářích obchodníků ekonomů, ale i v Los Alamos při práci na první atomové bombě.
+text_en:  Harold T. Avery, the chief engineer at Marchant company, the inverntor of the fastest mechanical computing mechanism (Silent Speed) died on August 1,1974. His calculators were in daily use in many business offices as well as in Los Alamos laboratories when running diffcult computations for the first atomic bomb.
+---
+jmeno: Antonín Svoboda
+datum: 14.10.1907
+zdroj: http://www.historiepocitacu.cz/prukopnik-pocitacu-antonin-svoboda.html
+zdroj_en: http://history.computer.org/pioneers/svoboda.html
+obrazek: antoninsvoboda.jpg
+text: Dne 14. října 1907 se narodil Antonín Svoboda, vědec a vynálezce, konstruktér prvních českých samočinných počítačů.
+text_en:  Antonin Svoboda, Czech computer scientist who desinged original relay computers with three arithmetic units was born on October 14, 1907, Prague, Czechoslovakia.
+---
+jmeno: Antonín Svoboda
+datum: 18.5.1980
+zdroj: http://www.historiepocitacu.cz/prukopnik-pocitacu-antonin-svoboda.html
+zdroj_en: http://history.computer.org/pioneers/svoboda.html
+obrazek: antoninsvoboda.jpg
+text: Dne 18. května 1980 zemřel Antonín Svoboda, vědec a vynálezce, konstruktér prvních českých samočinných počítačů.
+text_en:  Antonin Svoboda, Czech computer scientist who desinged original relay computers with three arithmetic units died on May 18, 1980, Oregon.
+
